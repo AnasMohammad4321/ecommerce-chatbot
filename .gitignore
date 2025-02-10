@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+# Virtual environment
+venv/
+.env/
+env/
+*.venv
+venv
+*.sqlite
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+.hypothesis/
+nosetests.xml
+unittest.xml
+coverage.xml
+*.mo
+*.pot
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Django / Flask
+instance/
+*.log
+local_settings.py
+
+# Scrapy
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1001 @@
+item_id,order_status,created_at,stock_keeping_unit,price,qty_ordered,grand_total,increment_id,product_category,sales_commission_code,discount_amount,payment_method,BI Status,market_value,Customer Since,Customer ID
+211133,canceled,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147444,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,240,2016-07-01,2
+211134,canceled,2016-07-01,Ego_UP0017-999-MR0,2450.0,1,2450.0,100147445,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2450,2016-07-01,3
+211135,completed,2016-07-01,kcc_krone deal,360.0,1,60.0,100147446,Beauty & Grooming,R-FSD-52352,300.0,Cash_on_delivery,Net,360,2016-07-01,4
+211136,refund,2016-07-01,BK7010400AG,555.0,2,1110.0,100147447,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,1110,2016-07-01,5
+211137,canceled,2016-07-01,UK_Namkino All In One 200 Gms,80.0,1,80.0,100147448,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,80,2016-07-01,6
+211138,completed,2016-07-01,kcc_krone deal,360.0,1,60.0,100147449,Beauty & Grooming,Unknown,300.0,Cash_on_delivery,Net,360,2016-07-01,7
+211139,completed,2016-07-01,UK_Namkino Mix Nimco 400 Gms,170.0,1,170.0,100147450,Soghaat,Unknown,0.0,Cash_on_delivery,Net,170,2016-07-01,6
+211140,canceled,2016-07-01,Apple iPhone 6S 64GB,96499.0,1,96499.0,100147451,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,96499,2016-07-01,8
+211141,canceled,2016-07-01,Apple iPhone 6S 64GB,96499.0,1,96499.0,100147452,Mobiles & Tablets,Unknown,0.0,Others,Gross,96499,2016-07-01,8
+211142,completed,2016-07-01,"GFC_Pedestal Myga Cross Base (Special Guard) 24""",5500.0,1,5500.0,100147453,Appliances,Unknown,0.0,Cash_on_delivery,Net,5500,2016-07-01,9
+211143,completed,2016-07-01,BK1070200PL,210.0,1,366.0,100147454,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,210,2016-07-01,10
+211144,completed,2016-07-01,BK1130200CF,156.0,1,366.0,100147454,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,156,2016-07-01,10
+211145,completed,2016-07-01,kcc_Sultanat,120.0,1,120.0,100147455,Home & Living,105259,0.0,Bank or Card,Net,120,2016-07-01,11
+211146,completed,2016-07-01,kcc_glamour deal,320.0,1,0.0,100147456,Beauty & Grooming,Unknown,0.0,Others,Net,320,2016-07-01,12
+211147,canceled,2016-07-01,Assetmen_MD-346-M,1550.0,1,1550.0,100147457,Men's Fashion,105259,0.0,Bank or Card,Gross,1550,2016-07-01,11
+211149,completed,2016-07-01,cr_DATES WITH CASHEW-400 GM,420.0,1,1270.0,100147458,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,420,2016-07-01,13
+211150,completed,2016-07-01,UK_Gift Box Mix Dry Fruit Sweets 500 Gms,360.0,1,1270.0,100147458,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,360,2016-07-01,13
+211151,completed,2016-07-01,itter_AB 1199,490.0,1,1270.0,100147458,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,490,2016-07-01,13
+211152,canceled,2016-07-01,RL_B005,899.25,1,2118.25,100147459,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,899,2016-07-01,14
+211153,canceled,2016-07-01,bed&rest_S7,899.0,1,2118.25,100147459,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,899,2016-07-01,14
+211154,canceled,2016-07-01,L&L_LLHLE8224S,320.0,1,2118.25,100147459,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,320,2016-07-01,14
+211155,completed,2016-07-01,J&J_JJR-4,149.0,1,298.0,100147460,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,149,2016-07-01,15
+211156,completed,2016-07-01,J&J_JJR-20,149.0,1,298.0,100147460,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,149,2016-07-01,15
+211157,refund,2016-07-01,D Lend a Helping Hand,1000.0,1,0.0,100147461,Others,Unknown,0.0,Others,Valid,1000,2016-07-01,16
+211158,refund,2016-07-01,Mochika_M0001112-12,1913.0,1,3826.0,100147462,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,1913,2016-07-01,17
+211160,refund,2016-07-01,Mochika_M0001112-8,1913.0,1,3826.0,100147462,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,1913,2016-07-01,17
+211162,completed,2016-07-01,SKMT_Blood Test,500.0,1,0.0,100147463,Others,Unknown,0.0,Others,Net,500,2016-07-01,16
+211163,completed,2016-07-01,SKMT_Medicine,100.0,5,0.0,100147463,Others,Unknown,0.0,Others,Net,500,2016-07-01,16
+211164,canceled,2016-07-01,sputnik_701/5-11,1500.0,2,3000.0,100147464,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,3000,2016-07-01,18
+211166,completed,2016-07-01,Ctees-Black Zip- Up Hoodie-XL,450.0,1,450.0,100147465,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,450,2016-07-01,19
+211168,completed,2016-07-01,Samsung Galaxy J5,20999.0,1,20999.0,100147466,Mobiles & Tablets,R-FSD-58130,0.0,Cash_on_delivery,Net,20999,2016-07-01,20
+211169,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147467,Beauty & Grooming,R-FSD-58130,0.0,Cash_on_delivery,Net,360,2016-07-01,20
+211170,refund,2016-07-01,Veet_4,165.0,1,300.0,100147468,Beauty & Grooming,Unknown,82.5,Cash_on_delivery,Valid,165,2016-07-01,21
+211171,refund,2016-07-01,RS_Gulab jaman Tin,435.0,1,300.0,100147468,Soghaat,Unknown,217.5,Cash_on_delivery,Valid,435,2016-07-01,21
+211172,canceled,2016-07-01,cr_PEANUT SALTY-200 GM,90.0,1,940.0,100147469,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,90,2016-07-01,22
+211173,canceled,2016-07-01,Oriflame_21557,850.0,1,940.0,100147469,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,850,2016-07-01,22
+211174,completed,2016-07-01,JBS_TAT-128,3672.0,1,3672.0,100147470,Home & Living,Unknown,0.0,Cash_on_delivery,Net,3672,2016-07-01,23
+211175,completed,2016-07-01,cr_PEANUT SALTY-200 GM,90.0,1,740.0,100147471,Soghaat,Unknown,19.15,Cash_on_delivery,Net,90,2016-07-01,22
+211176,completed,2016-07-01,Oriflame_21557,850.0,1,740.0,100147471,Beauty & Grooming,Unknown,180.85,Cash_on_delivery,Net,850,2016-07-01,22
+211177,refund,2016-07-01,Ajmery_BRR-590-M,899.0,1,899.0,100147472,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,899,2016-07-01,24
+211179,canceled,2016-07-01,HOS_GUCFW75,7400.0,1,11000.0,100147473,Beauty & Grooming,Unknown,0.0,Others,Gross,7400,2016-07-01,25
+211180,canceled,2016-07-01,Lexon_LL116B-Blue,3600.0,1,11000.0,100147473,Mobiles & Tablets,Unknown,0.0,Others,Gross,3600,2016-07-01,25
+211182,completed,2016-07-01,kcc_Fantasy Perfumed Talcum Powder-200gm,143.0,1,168.0,100147474,Beauty & Grooming,Unknown,77.72,Cash_on_delivery,Net,143,2016-07-01,22
+211184,completed,2016-07-01,2Zee_SC6,225.0,1,168.0,100147474,Beauty & Grooming,Unknown,122.28,Cash_on_delivery,Net,225,2016-07-01,22
+211185,completed,2016-07-01,Q MOBILE Noir X20,4500.0,1,4500.0,100147475,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Net,4500,2016-07-01,26
+211186,canceled,2016-07-01,rehaab_RJ160047,3156.0,1,6152.0,100147476,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,3156,2016-07-01,27
+211187,canceled,2016-07-01,Farah_3-B,2996.0,1,6152.0,100147476,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2996,2016-07-01,27
+211188,canceled,2016-07-01,RS_Sohan Halwa Tin,300.0,2,2210.0,100147477,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,600,2016-07-01,28
+211189,canceled,2016-07-01,UK_Soan Papdi Original 250 Gms,150.0,2,2210.0,100147477,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,300,2016-07-01,28
+211190,canceled,2016-07-01,UK_Gift Box Soghaat 500 Gms,465.0,2,2210.0,100147477,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,930,2016-07-01,28
+211191,canceled,2016-07-01,RS_Double Delight,380.0,1,2210.0,100147477,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,380,2016-07-01,28
+211192,canceled,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147478,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,29
+211193,completed,2016-07-01,UK_Gift Box Baklawa 500 Gms,425.0,1,425.0,100147479,Soghaat,Unknown,0.0,Cash_on_delivery,Net,425,2016-07-01,30
+211194,completed,2016-07-01,sputnik_2146/6-8,850.0,1,850.0,100147480,Women's Fashion,Unknown,0.0,Cash_on_delivery,Net,850,2016-07-01,31
+211196,completed,2016-07-01,kkc_Kingtox 450ml Classic Green All Insect Killer Spray,251.0,1,251.0,100147481,Home & Living,C-PEW-104656,0.0,Cash_on_delivery,Net,251,2016-07-01,32
+211197,refund,2016-07-01,kcc_krone deal,360.0,1,360.0,100147482,Beauty & Grooming,C-Rwp-101853,0.0,Cash_on_delivery,Valid,360,2016-07-01,33
+211198,completed,2016-07-01,Al Muhafiz Sohan Halwa Walnut,510.0,1,835.0,100147483,Soghaat,Unknown,0.0,Cash_on_delivery,Net,510,2016-07-01,34
+211199,completed,2016-07-01,RS_Honey Dry Fruit Halwa,325.0,1,835.0,100147483,Soghaat,Unknown,0.0,Cash_on_delivery,Net,325,2016-07-01,34
+211200,completed,2016-07-01,itter_AB 1214,300.0,1,300.0,100147484,Beauty & Grooming,C-ISB-47491,0.0,Cash_on_delivery,Net,300,2016-07-01,35
+211202,refund,2016-07-01,Eco Star_40U557,30417.0,1,30417.0,100147486,Entertainment,c-uet-44938,0.0,Cash_on_delivery,Valid,30417,2016-07-01,36
+211201,refund,2016-07-01,kcc_krone deal,360.0,1,360.0,100147485,Beauty & Grooming,C-RWP-103867,0.0,Cash_on_delivery,Valid,360,2016-07-01,33
+211203,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,2,700.0,100147487,Soghaat,Unknown,0.0,Cash_on_delivery,Net,700,2016-07-01,37
+211204,completed,2016-07-01,Orient_OR-6057 GX LGFD LV,45250.0,1,45250.0,100147488,Appliances,R-KHS-104405,0.0,Cash_on_delivery,Net,45250,2016-07-01,38
+211205,canceled,2016-07-01,HOS_JPGCW100,8100.0,3,24588.0,100147489,Beauty & Grooming,104835,0.0,Cash_on_delivery,Gross,24300,2016-07-01,39
+211206,canceled,2016-07-01,kkc_Jasmine King Air Freshener,144.0,2,24588.0,100147489,Home & Living,104835,0.0,Cash_on_delivery,Gross,288,2016-07-01,39
+211207,completed,2016-07-01,asimjofaeanew_5A,5597.0,1,5597.0,100147490,Women's Fashion,R-KHS-104405,0.0,Cash_on_delivery,Net,5597,2016-07-01,40
+211208,refund,2016-07-01,ajmery_F9-981,999.0,1,999.0,100147491,Men's Fashion,C-ISB-105964,0.0,Cash_on_delivery,Valid,999,2016-07-01,35
+211209,refund,2016-07-01,hijabh_JILBAB-C (1)-52x,4950.0,1,4950.0,100147492,Women's Fashion,R-KHS-104405,0.0,Cash_on_delivery,Valid,4950,2016-07-01,40
+211211,refund,2016-07-01,noritake_NTM163M,805.0,1,805.0,100147493,Home & Living,865116,0.0,Cash_on_delivery,Valid,805,2016-07-01,41
+211212,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147494,Beauty & Grooming,C-ISB-40310,0.0,Cash_on_delivery,Net,360,2016-07-01,35
+211213,refund,2016-07-01,RS_Habshi Halwa Tin,280.0,1,280.0,100147495,Soghaat,C-ISB-102148,0.0,Cash_on_delivery,Valid,280,2016-07-01,35
+211214,canceled,2016-07-01,sentiments_WRK1612,1.0,1,1.0,100147496,Others,C-RWP-102627,0.0,Cash_on_delivery,Gross,1,2016-07-01,33
+211215,refund,2016-07-01,bata_comfit-8613714-43-9,999.0,1,999.0,100147497,Men's Fashion,R-PEW-41424,0.0,Cash_on_delivery,Valid,999,2016-07-01,42
+211217,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147498,Beauty & Grooming,C-MUX-33202,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211218,refund,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147499,Soghaat,C-KHS-44926,0.0,Cash_on_delivery,Valid,350,2016-07-01,44
+211219,refund,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147500,Soghaat,C-KHS-44926,0.0,Cash_on_delivery,Valid,350,2016-07-01,44
+211220,completed,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,1195.0,100147501,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,760,2016-07-01,13
+211221,completed,2016-07-01,RS_Gulab jaman Tin,435.0,1,1195.0,100147501,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,435,2016-07-01,13
+211222,canceled,2016-07-01,sentiments_WRK1612,1.0,5,5.0,100147502,Others,C-RWP-66032,0.0,Cash_on_delivery,Gross,5,2016-07-01,33
+211223,canceled,2016-07-01,sentiments_WRK1612,1.0,2,2.0,100147503,Others,C-RWP-31924,0.0,Cash_on_delivery,Gross,2,2016-07-01,33
+211225,canceled,2016-07-01,sentiments_WRK1612,1.0,1,1.0,100147505,Others,C-RWP-102627,0.0,Cash_on_delivery,Gross,1,2016-07-01,33
+211224,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147504,Beauty & Grooming,C-MUX-106279,0.0,Cash_on_delivery,Valid,360,2016-07-01,43
+211226,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147506,Beauty & Grooming,C-MUX-106279,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211227,completed,2016-07-01,RS_Gulab jaman Tin,435.0,1,1195.0,100147507,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,435,2016-07-01,13
+211228,completed,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,1195.0,100147507,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,760,2016-07-01,13
+211229,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147508,Beauty & Grooming,C-MUX-106279,0.0,Cash_on_delivery,Valid,240,2016-07-01,43
+211230,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147509,Beauty & Grooming,C-MUX-106279,0.0,Cash_on_delivery,Valid,360,2016-07-01,43
+211231,refund,2016-07-01,Inoxy_Inoxy Hair Miracle Elixir,1875.0,1,1875.0,100147510,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,1875,2016-07-01,45
+211232,completed,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,1195.0,100147511,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,760,2016-07-01,13
+211233,completed,2016-07-01,RS_Chum Chum Tin,435.0,1,1195.0,100147511,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,435,2016-07-01,13
+211234,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147512,Beauty & Grooming,C-MUX-43032,0.0,Cash_on_delivery,Valid,360,2016-07-01,43
+211235,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147513,Beauty & Grooming,C-MUX-43032,0.0,Cash_on_delivery,Valid,360,2016-07-01,43
+211236,completed,2016-07-01,RS_Chum Chum Tin,435.0,1,1195.0,100147514,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,435,2016-07-01,13
+211237,completed,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,1195.0,100147514,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,760,2016-07-01,13
+211238,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147515,Beauty & Grooming,C-MUX-106279,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211239,completed,2016-07-01,Dany_AUK-650,4200.0,1,4200.0,100147516,Mobiles & Tablets,R-LHW-105666,0.0,Cash_on_delivery,Net,4200,2016-07-01,46
+211240,completed,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,1195.0,100147517,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,760,2016-07-01,13
+211241,completed,2016-07-01,RS_Chum Chum Tin,435.0,1,1195.0,100147517,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,435,2016-07-01,13
+211242,completed,2016-07-01,urban_ PT004-L,550.0,1,550.0,100147518,Others,C-PEW-105784,0.0,Cash_on_delivery,Net,550,2016-07-01,47
+211244,completed,2016-07-01,jackpot_JP-7999,1230.0,1,1230.0,100147519,Appliances,Unknown,0.0,Cash_on_delivery,Net,1230,2016-07-01,48
+211245,completed,2016-07-01,RS_Chum Chum Tin,435.0,1,1195.0,100147520,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,435,2016-07-01,13
+211246,completed,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,1195.0,100147520,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,760,2016-07-01,13
+211247,completed,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,1195.0,100147521,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,760,2016-07-01,13
+211248,completed,2016-07-01,RS_Chum Chum Tin,435.0,1,1195.0,100147521,Soghaat,R-KHW-104406,0.0,Cash_on_delivery,Net,435,2016-07-01,13
+211249,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147522,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211250,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147523,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211251,canceled,2016-07-01,Al Muhafiz Sohan Halwa Walnut,510.0,1,880.0,100147524,Soghaat,Unknown,0.0,Bank or Card,Gross,510,2016-07-01,49
+211252,canceled,2016-07-01,UK_Gift Box Pistachio Delight 500 Gms,370.0,1,880.0,100147524,Soghaat,Unknown,0.0,Bank or Card,Gross,370,2016-07-01,49
+211253,canceled,2016-07-01,test_tcsconnect,2.0,1,2.0,100147525,Others,Unknown,0.0,Cash_on_delivery,Gross,2,2016-07-01,50
+211254,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147526,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211255,completed,2016-07-01,kcc_krone deal,360.0,4,1440.0,100147527,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Valid,1440,2016-07-01,43
+211256,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147528,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211257,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147529,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211258,refund,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147530,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Valid,240,2016-07-01,43
+211259,canceled,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147531,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,51
+211260,canceled,2016-07-01,sst_Lyquin-Regular fit-Large,1950.0,1,2745.0,100147532,Men's Fashion,Unknown,0.0,Bank or Card,Gross,1950,2016-07-01,52
+211262,canceled,2016-07-01,Fcafe_11777-L,795.0,1,2745.0,100147532,Men's Fashion,Unknown,0.0,Bank or Card,Gross,795,2016-07-01,52
+211264,completed,2016-07-01,LC_359547105042,4750.0,1,12150.0,100147533,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,4750,2016-07-01,13
+211265,completed,2016-07-01,LC_3349668508587,7400.0,1,12150.0,100147533,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,7400,2016-07-01,13
+211266,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147534,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211267,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147535,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211268,refund,2016-07-01,RS_pheni Desi Ghee 1 kg,520.0,1,520.0,100147536,Soghaat,C-KHS-31122,0.0,Cash_on_delivery,Valid,520,2016-07-01,44
+211269,refund,2016-07-01,RS_pheni Desi Ghee 1 kg,520.0,1,520.0,100147537,Soghaat,C-KHS-31122,0.0,Cash_on_delivery,Valid,520,2016-07-01,44
+211270,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147538,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211271,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147539,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211272,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147540,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211273,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147541,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211274,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147542,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211275,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147543,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211276,completed,2016-07-01,Al Muhafiz Sohan Halwa Walnut,510.0,1,880.0,100147544,Soghaat,Unknown,0.0,Bank or Card,Net,510,2016-07-01,49
+211277,completed,2016-07-01,UK_Gift Box Pistachio Delight 500 Gms,370.0,1,880.0,100147544,Soghaat,Unknown,0.0,Bank or Card,Net,370,2016-07-01,49
+211278,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147545,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211279,completed,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,600.0,100147546,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211280,completed,2016-07-01,UK_Chum Chum Tin Pack  500 Gms,260.0,1,600.0,100147546,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211281,completed,2016-07-01,UK_Namkino Mix Nimco 200 Gms,80.0,1,600.0,100147546,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,80,2016-07-01,53
+211282,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147547,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211283,canceled,2016-07-01,sentiments_Ferrero Rocher Gift Box,1.0,1,1.0,100147548,Others,Unknown,0.0,Cash_on_delivery,Gross,1,2016-07-01,54
+211284,completed,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,600.0,100147549,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211285,completed,2016-07-01,UK_Chum Chum Tin Pack  500 Gms,260.0,1,600.0,100147549,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211286,completed,2016-07-01,UK_Namkino Mix Nimco 200 Gms,80.0,1,600.0,100147549,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,80,2016-07-01,53
+211287,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147550,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211288,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147551,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211289,canceled,2016-07-01,EGO_E02377-SML-BG00-S,1950.0,2,3901.0,100147552,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,3900,2016-07-01,55
+211291,canceled,2016-07-01,sentiments_WRK1612,1.0,1,3901.0,100147552,Others,Unknown,0.0,Cash_on_delivery,Gross,1,2016-07-01,55
+211292,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147553,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211295,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147555,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211293,canceled,2016-07-01,darzee_DP-234-B-Pink-15-M,1450.0,1,1450.0,100147554,Men's Fashion,Unknown,0.0,Bank or Card,Gross,1450,2016-07-01,52
+211296,canceled,2016-07-01,sentiments_Ferrero Rocher Gift Box,1.0,1,1.0,100147556,Others,Unknown,0.0,Cash_on_delivery,Gross,1,2016-07-01,55
+211297,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147557,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211298,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147558,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211299,refund,2016-07-01,Q MOBILE Noir W7,3950.0,1,3950.0,100147559,Mobiles & Tablets,C SKZ 41328,0.0,Cash_on_delivery,Valid,3950,2016-07-01,56
+211300,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147560,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211301,refund,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,600.0,100147561,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Valid,260,2016-07-01,53
+211302,refund,2016-07-01,UK_Chum Chum Tin Pack  500 Gms,260.0,1,600.0,100147561,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Valid,260,2016-07-01,53
+211303,refund,2016-07-01,UK_Namkino Mix Nimco 200 Gms,80.0,1,600.0,100147561,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Valid,80,2016-07-01,53
+211304,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147562,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211305,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147563,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211306,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147564,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211307,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147565,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211308,refund,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,760.0,100147566,Soghaat,C-RWP-41876,0.0,Cash_on_delivery,Valid,760,2016-07-01,33
+211309,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147567,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211310,completed,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,600.0,100147568,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211311,completed,2016-07-01,UK_Chum Chum Tin Pack  500 Gms,260.0,1,600.0,100147568,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211312,completed,2016-07-01,UK_Namkino Mix Nimco 200 Gms,80.0,1,600.0,100147568,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,80,2016-07-01,53
+211313,completed,2016-07-01,RS_Kaju Barfi,425.0,1,1125.0,100147569,Soghaat,Unknown,0.0,Cash_on_delivery,Net,425,2016-07-01,57
+211314,completed,2016-07-01,RS_Sohan Halwa Tin,300.0,1,1125.0,100147569,Soghaat,Unknown,0.0,Cash_on_delivery,Net,300,2016-07-01,57
+211315,completed,2016-07-01,RS_cake rusk,190.0,1,1125.0,100147569,Soghaat,Unknown,0.0,Cash_on_delivery,Net,190,2016-07-01,57
+211316,completed,2016-07-01,HR_Bhel Puri 200g,210.0,1,1125.0,100147569,Soghaat,Unknown,0.0,Cash_on_delivery,Net,210,2016-07-01,57
+211317,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147570,Beauty & Grooming,C-RWP-47599,0.0,Cash_on_delivery,Net,360,2016-07-01,33
+211318,completed,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,600.0,100147571,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211319,completed,2016-07-01,UK_Chum Chum Tin Pack  500 Gms,260.0,1,600.0,100147571,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211320,completed,2016-07-01,UK_Namkino Mix Nimco 200 Gms,80.0,1,600.0,100147571,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,80,2016-07-01,53
+211321,canceled,2016-07-01,UK_Gift Box Almond Delight 500 Gms,350.0,1,350.0,100147572,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,58
+211322,refund,2016-07-01,UK_Gift Box Almond Delight 500 Gms,350.0,1,350.0,100147573,Soghaat,C-FSD-41249,0.0,Cash_on_delivery,Valid,350,2016-07-01,58
+211324,completed,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,600.0,100147575,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211325,completed,2016-07-01,UK_Chum Chum Tin Pack  500 Gms,260.0,1,600.0,100147575,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211326,completed,2016-07-01,UK_Namkino Mix Nimco 200 Gms,80.0,1,600.0,100147575,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,80,2016-07-01,53
+211323,refund,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,760.0,100147574,Soghaat,C-RWP-102528,0.0,Cash_on_delivery,Valid,760,2016-07-01,33
+211328,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147577,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211327,refund,2016-07-01,kcc_krone deal,360.0,1,360.0,100147576,Beauty & Grooming,C-RWP-102528,0.0,Cash_on_delivery,Valid,360,2016-07-01,33
+211329,completed,2016-07-01,UK_Soan Papdi 500 Gms,280.0,1,280.0,100147578,Soghaat,C LHE 41938,0.0,Cash_on_delivery,Net,280,2016-07-01,59
+211330,refund,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,760.0,100147579,Soghaat,C-RWP-30884,0.0,Cash_on_delivery,Valid,760,2016-07-01,33
+211332,completed,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,600.0,100147581,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211333,completed,2016-07-01,UK_Chum Chum Tin Pack  500 Gms,260.0,1,600.0,100147581,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,260,2016-07-01,53
+211334,completed,2016-07-01,UK_Namkino Mix Nimco 200 Gms,80.0,1,600.0,100147581,Soghaat,R-KHS-103986,0.0,Cash_on_delivery,Net,80,2016-07-01,53
+211331,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147580,Beauty & Grooming,C-RWP-31520,0.0,Cash_on_delivery,Net,360,2016-07-01,33
+211336,refund,2016-07-01,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,760.0,100147583,Soghaat,C-RWP-31691,0.0,Cash_on_delivery,Valid,760,2016-07-01,33
+211335,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147582,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211337,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147584,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211338,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147585,Beauty & Grooming,C-RWP-31691,0.0,Cash_on_delivery,Net,360,2016-07-01,33
+211339,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147586,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211340,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147587,Beauty & Grooming,C-RWP-31691,0.0,Cash_on_delivery,Net,320,2016-07-01,33
+211341,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147588,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211342,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147589,Beauty & Grooming,C SKZ 103997,0.0,Cash_on_delivery,Net,240,2016-07-01,56
+211343,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,150.0,100147590,Soghaat,c-fsd-759,200.0,Cash_on_delivery,Net,350,2016-07-01,60
+211344,canceled,2016-07-01,Huawei Honor 4C,16460.0,1,16460.0,100147591,Mobiles & Tablets,C-MUX-R52221,0.0,Cash_on_delivery,Gross,16460,2016-07-01,61
+211347,completed,2016-07-01,bata_comfit-8614096-43-9,599.0,1,599.0,100147593,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,599,2016-07-01,62
+211345,completed,2016-07-01,bata_comfit-8614096-41-7,599.0,1,599.0,100147592,Men's Fashion,7828,0.0,Cash_on_delivery,Net,599,2016-07-01,63
+211350,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147595,Beauty & Grooming,7828,0.0,Cash_on_delivery,Net,360,2016-07-01,63
+211349,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147594,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211352,completed,2016-07-01,UK_Gift Box Baklawa 300 Gms,265.0,1,155.0,100147597,Soghaat,c-fsd-759,149.3,Cash_on_delivery,Net,265,2016-07-01,60
+211353,completed,2016-07-01,UK_Namkino Daal Moth Classic 160 Gms,90.0,1,155.0,100147597,Soghaat,c-fsd-759,50.7,Cash_on_delivery,Net,90,2016-07-01,60
+211351,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147596,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211354,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147598,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211355,completed,2016-07-01,kcc_Bold Pocket Perfume,120.0,1,120.0,100147599,Beauty & Grooming,7828,0.0,Cash_on_delivery,Net,120,2016-07-01,63
+211356,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147600,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211357,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147601,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211358,completed,2016-07-01,UK_Gulab Jamun Tin Pack 500 Gms,260.0,1,150.0,100147602,Soghaat,c-fsd-759,148.57,Cash_on_delivery,Net,260,2016-07-01,60
+211359,completed,2016-07-01,UK_Cake Rusk Original 150 Gms,90.0,1,150.0,100147602,Soghaat,c-fsd-759,51.43,Cash_on_delivery,Net,90,2016-07-01,60
+211360,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147603,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211361,completed,2016-07-01,itter_AB 1207,250.0,1,250.0,100147604,Beauty & Grooming,7828,0.0,Cash_on_delivery,Net,250,2016-07-01,63
+211362,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147605,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211363,completed,2016-07-01,Samsung Galaxy J7,25999.0,1,25999.0,100147606,Mobiles & Tablets,C-HDD-44781,0.0,Cash_on_delivery,Net,25999,2016-07-01,64
+211365,completed,2016-07-01,kcc_glamour deal,320.0,1,920.0,100147608,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,320,2016-07-01,65
+211366,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,920.0,100147608,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,240,2016-07-01,65
+211367,completed,2016-07-01,kcc_krone deal,360.0,1,920.0,100147608,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,360,2016-07-01,65
+211364,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147607,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211368,refund,2016-07-01,Dany_AUK 55,3900.0,1,3900.0,100147609,Mobiles & Tablets,R-RWP-103991,0.0,Cash_on_delivery,Valid,3900,2016-07-01,66
+211369,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147610,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211370,completed,2016-07-01,anex_2028,3600.0,1,3600.0,100147611,Appliances,7828,0.0,Cash_on_delivery,Net,3600,2016-07-01,63
+211371,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147612,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211372,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147613,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211373,refund,2016-07-01,Atiqa_ACFP-01,450.0,1,450.0,100147614,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,450,2016-07-01,67
+211375,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147616,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211374,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,2,700.0,100147615,Soghaat,Unknown,0.0,Cash_on_delivery,Net,700,2016-07-01,68
+211376,completed,2016-07-01,UK_Soan Papdi Orange 250 Gms,150.0,1,168.0,100147617,Soghaat,c-fsd-759,81.52,Cash_on_delivery,Net,150,2016-07-01,60
+211377,completed,2016-07-01,kcc_Xtreme Classical Men Shower Gel,143.0,1,168.0,100147617,Beauty & Grooming,c-fsd-759,77.72,Cash_on_delivery,Net,143,2016-07-01,60
+211378,completed,2016-07-01,UK_Tea Rusk Regular 220 Gms,75.0,1,168.0,100147617,Soghaat,c-fsd-759,40.76,Cash_on_delivery,Net,75,2016-07-01,60
+211379,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147618,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211380,canceled,2016-07-01,Atiqa_ACFP-01,450.0,1,450.0,100147619,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,450,2016-07-01,67
+211381,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147620,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211382,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147621,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211383,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147622,Beauty & Grooming,C-MUX-100079,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211384,completed,2016-07-01,kcc_Glow,140.0,1,140.0,100147623,Beauty & Grooming,103996,0.0,Cash_on_delivery,Net,140,2016-07-01,69
+211385,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147624,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,70
+211386,canceled,2016-07-01,Atiqa_ACFP-01,450.0,1,450.0,100147625,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,450,2016-07-01,67
+211387,canceled,2016-07-01,emo_HST-17030-B-M,550.0,1,900.0,100147626,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,550,2016-07-01,71
+211389,canceled,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,900.0,100147626,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,71
+211390,completed,2016-07-01,Dany_Powerbank Pb- 41,1050.0,1,1050.0,100147627,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Net,1050,2016-07-01,72
+211391,canceled,2016-07-01,Getiit_Joy,3750.0,1,3750.0,100147628,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,3750,2016-07-01,73
+211393,canceled,2016-07-01,test_tcsconnect,2.0,1,2.0,100147630,Others,Unknown,0.0,Others,Gross,2,2016-07-01,73
+211392,completed,2016-07-01,MYWALET_MW-012-BLACK,455.0,1,455.0,100147629,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,455,2016-07-01,74
+211394,canceled,2016-07-01,RS_Kaju Barfi,425.0,1,425.0,100147631,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,425,2016-07-01,75
+211395,completed,2016-07-01,sstop_Mini AIr Conditioner,1335.0,2,2670.0,100147632,Appliances,Unknown,0.0,Cash_on_delivery,Net,2670,2016-07-01,76
+211396,refund,2016-07-01,Huawei_Huawei B2 Talk Band,10740.0,1,10740.0,100147633,Mobiles & Tablets,R-LHW-105666,0.0,Cash_on_delivery,Valid,10740,2016-07-01,77
+211397,completed,2016-07-01,cr_DATES WITH CASHEW-200 GM,230.0,1,740.0,100147634,Soghaat,Unknown,0.0,Bank or Card,Net,230,2016-07-01,49
+211398,completed,2016-07-01,cr_DATES WITH WALNUT-200 GM,230.0,1,740.0,100147634,Soghaat,Unknown,0.0,Bank or Card,Net,230,2016-07-01,49
+211399,completed,2016-07-01,UK_Soan Papdi 500 Gms,280.0,1,740.0,100147634,Soghaat,Unknown,0.0,Bank or Card,Net,280,2016-07-01,49
+211400,refund,2016-07-01,Xenium_TG-201653,300.0,1,1399.0,100147635,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Valid,300,2016-07-01,78
+211401,refund,2016-07-01,Xenium_TG-2016132,300.0,1,1399.0,100147635,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Valid,300,2016-07-01,78
+211402,refund,2016-07-01,Xenium_MBC-2016130,799.0,1,1399.0,100147635,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Valid,799,2016-07-01,78
+211403,completed,2016-07-01,ESPICO_Sports Bra-Skin-Free size,480.0,1,480.0,100147636,Women's Fashion,R-ISB-58059,0.0,Cash_on_delivery,Net,480,2016-07-01,79
+211405,completed,2016-07-01,PucaM_FLASH-BLACK-45,1200.0,1,1000.0,100147637,Men's Fashion,C-FSD-42225,200.0,Cash_on_delivery,Net,1200,2016-07-01,80
+211407,refund,2016-07-01,Huawei Y221,4530.0,1,4530.0,100147638,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Valid,4530,2016-07-01,81
+211408,refund,2016-07-01,Rabia_1-A,1890.0,1,1890.0,100147639,Women's Fashion,c-mux-47236,0.0,Cash_on_delivery,Valid,1890,2016-07-01,82
+211409,completed,2016-07-01,kkc_Rose Oasis Prickly Heat Powder,80.0,1,80.0,100147640,Beauty & Grooming,R-RWP-103991,0.0,Cash_on_delivery,Net,80,2016-07-01,66
+211410,refund,2016-07-01,cr_MUZAFTI IRANI (500GM),185.0,2,170.0,100147641,Soghaat,C-FSD-42225,200.0,Cash_on_delivery,Valid,370,2016-07-01,80
+211411,refund,2016-07-01,test_tcsconnect,2.0,1,8.0,100147642,Others,Unknown,0.0,Cash_on_delivery,Valid,2,2016-07-01,83
+211412,refund,2016-07-01,test_tcsconnect1,1.0,1,8.0,100147642,Others,Unknown,0.0,Cash_on_delivery,Valid,1,2016-07-01,83
+211413,refund,2016-07-01,Test Hazir Product 2-Karachi,5.0,1,8.0,100147642,Others,Unknown,0.0,Cash_on_delivery,Valid,5,2016-07-01,83
+211415,refund,2016-07-01,Audionic_B-710,1350.0,1,1350.0,100147643,Computing,Unknown,0.0,Cash_on_delivery,Valid,1350,2016-07-01,84
+211416,refund,2016-07-01,Haier M106,2490.0,1,2490.0,100147644,Mobiles & Tablets,C-ISB-103273,0.0,Cash_on_delivery,Valid,2490,2016-07-01,35
+211417,refund,2016-07-01,GBH-GL245-GOLD-7,1650.0,1,1650.0,100147645,Women's Fashion,C-MUX-52058,0.0,Cash_on_delivery,Valid,1650,2016-07-01,85
+211419,canceled,2016-07-01,itter_AB1263,1870.0,1,1870.0,100147646,Beauty & Grooming,R-PEW-50644,0.0,Bank or Card,Gross,1870,2016-07-01,86
+211420,refund,2016-07-01,GBH-GL226-PINK-8,2050.0,1,2050.0,100147647,Women's Fashion,C-MUX-52058,0.0,Cash_on_delivery,Valid,2050,2016-07-01,85
+211422,completed,2016-07-01,sstop_3dcreenwithspeakers,995.0,1,0.0,100147648,Computing,Unknown,0.0,Others,Net,995,2016-07-01,87
+211423,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147649,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211424,completed,2016-07-01,kcc_krone deal,360.0,6,2160.0,100147650,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,2160,2016-07-01,43
+211425,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,975.0,100147651,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,88
+211426,completed,2016-07-01,UK_Namkino Mix Nimco 400 Gms,170.0,1,975.0,100147651,Soghaat,Unknown,0.0,Cash_on_delivery,Net,170,2016-07-01,88
+211427,completed,2016-07-01,UK_Namkino Khat Mitha Mix 400 Gms,170.0,1,975.0,100147651,Soghaat,Unknown,0.0,Cash_on_delivery,Net,170,2016-07-01,88
+211428,completed,2016-07-01,UK_Sohan Halwa Tin Pack 400 Gms,285.0,1,975.0,100147651,Soghaat,Unknown,0.0,Cash_on_delivery,Net,285,2016-07-01,88
+211429,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147652,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211430,completed,2016-07-01,bata_leena-5178202-38-5,1099.0,1,1099.0,100147653,Women's Fashion,Unknown,0.0,Cash_on_delivery,Net,1099,2016-07-01,89
+211432,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147654,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211433,completed,2016-07-01,kcc_krone deal,360.0,2,720.0,100147655,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,720,2016-07-01,43
+211434,completed,2016-07-01,kcc_glamour deal,320.0,2,640.0,100147656,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,640,2016-07-01,43
+211435,canceled,2016-07-01,KC_209 White-M,3290.0,1,3290.0,100147657,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,3290,2016-07-01,90
+211437,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,2,480.0,100147658,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,480,2016-07-01,43
+211438,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147659,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211439,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147660,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211440,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147661,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211441,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147662,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211442,completed,2016-07-01,mm_AG-1038c,1690.0,1,1013.0,100147663,Appliances,Unknown,0.0,Cash_on_delivery,Net,1690,2016-07-01,91
+211443,completed,2016-07-01,3m_DC272923871,500.0,1,1013.0,100147663,Superstore,Unknown,0.0,Cash_on_delivery,Net,500,2016-07-01,91
+211444,completed,2016-07-01,MEGUIAR_G12711,2800.0,1,1013.0,100147663,Others,Unknown,0.0,Cash_on_delivery,Net,2800,2016-07-01,91
+211445,completed,2016-07-01,MEGUIAR_G3503,2550.0,1,1013.0,100147663,Others,Unknown,0.0,Cash_on_delivery,Net,2550,2016-07-01,91
+211446,completed,2016-07-01,MEGUIAR_X3070,570.0,1,1013.0,100147663,Others,Unknown,0.0,Cash_on_delivery,Net,570,2016-07-01,91
+211447,completed,2016-07-01,BFk_Denim Jeans with Gallace for Boys |OF67-3-4 yrs,903.0,1,1013.0,100147663,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,903,2016-07-01,91
+211449,completed,2016-07-01,RS_Soan Papri-250gm,150.0,1,150.0,100147664,Soghaat,Unknown,0.0,Cash_on_delivery,Net,150,2016-07-01,92
+211450,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147665,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211451,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147666,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211452,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147667,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211453,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147668,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211454,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147669,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211455,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147670,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211456,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147671,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211457,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147672,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211458,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,2,700.0,100147673,Soghaat,80645,0.0,Cash_on_delivery,Net,700,2016-07-01,93
+211459,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147674,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211460,completed,2016-07-01,kcc_lush,140.0,5,700.0,100147675,Beauty & Grooming,C-MUX-7521,0.0,Cash_on_delivery,Net,700,2016-07-01,94
+211461,refund,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147676,Beauty & Grooming,51442,0.0,Cash_on_delivery,Valid,320,2016-07-01,95
+211462,completed,2016-07-01,HR_Pani Puri 360g,350.0,1,350.0,100147677,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,96
+211463,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147678,Beauty & Grooming,C-MUX-52058,0.0,Cash_on_delivery,Net,320,2016-07-01,85
+211464,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147679,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211465,refund,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147680,Beauty & Grooming,51442,0.0,Cash_on_delivery,Valid,320,2016-07-01,95
+211466,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147681,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211467,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147682,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211468,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,2,480.0,100147683,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,480,2016-07-01,43
+211469,completed,2016-07-01,kcc_active,180.0,1,323.0,100147684,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,180,2016-07-01,97
+211470,completed,2016-07-01,kcc_Xtreme Mantastic Men Shower Gels,143.0,1,323.0,100147684,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,143,2016-07-01,97
+211471,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147685,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211472,completed,2016-07-01,kcc_glamour deal,320.0,1,0.0,100147686,Beauty & Grooming,C-MUX-20260,0.0,Others,Net,320,2016-07-01,98
+211473,completed,2016-07-01,Rajesh_RAJ033,1065.0,1,1065.0,100147687,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,1065,2016-07-01,99
+211474,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147688,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211475,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147689,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211476,completed,2016-07-01,ajmery_AJ-123-L,999.0,1,999.0,100147690,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,999,2016-07-01,100
+211478,refund,2016-07-01,mitsubishi_1.5 ton SRC 18CLK,55850.0,1,55850.0,100147691,Appliances,R-isb-57478,0.0,Cash_on_delivery,Valid,55850,2016-07-01,101
+211479,completed,2016-07-01,Dany_Genius Tab G7 Metallica,6500.0,1,6500.0,100147692,Mobiles & Tablets,R-LHC-104132,0.0,Cash_on_delivery,Net,6500,2016-07-01,102
+211480,refund,2016-07-01,bata_leena-6618940-39-6,399.0,1,399.0,100147693,Women's Fashion,Unknown,0.0,Cash_on_delivery,Valid,399,2016-07-01,103
+211482,refund,2016-07-01,gree_12CZ8,42860.0,1,42860.0,100147694,Appliances,R-isb-57478,0.0,Cash_on_delivery,Valid,42860,2016-07-01,101
+211483,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147695,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211484,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147696,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211485,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147697,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211486,canceled,2016-07-01,Teenz_B-0541,3250.0,1,3250.0,100147698,Women's Fashion,Unknown,0.0,Bank or Card,Gross,3250,2016-07-01,104
+211487,completed,2016-07-01,Emo_SS-22057-11,775.0,1,775.0,100147699,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,775,2016-07-01,105
+211489,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147700,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211490,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147701,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211491,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147702,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211492,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147703,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211493,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147704,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211495,refund,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147706,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211494,completed,2016-07-01,UK_Soan Papdi 500 Gms,280.0,1,280.0,100147705,Soghaat,C LHE 41938,0.0,Cash_on_delivery,Net,280,2016-07-01,59
+211496,completed,2016-07-01,sapil_Sapil Disclosure Men 100ML,1647.0,1,1647.0,100147707,Beauty & Grooming,R-isb-57478,0.0,Cash_on_delivery,Net,1647,2016-07-01,101
+211497,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147708,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211498,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147709,Beauty & Grooming,C LHE 40936,0.0,Cash_on_delivery,Net,360,2016-07-01,59
+211499,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147710,Beauty & Grooming,C LHE 40936,0.0,Cash_on_delivery,Net,360,2016-07-01,59
+211500,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147711,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211501,refund,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147712,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211502,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147713,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211503,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,165.0,100147714,Soghaat,R-KHS-103982,0.0,Cash_on_delivery,Net,350,2016-07-01,106
+211504,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147715,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211505,refund,2016-07-01,UK_Gift Box Almond Delight 500 Gms,350.0,1,350.0,100147716,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,350,2016-07-01,107
+211506,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147717,Beauty & Grooming,C-ISB-42133,0.0,Cash_on_delivery,Net,320,2016-07-01,35
+211507,refund,2016-07-01,MYWALET_MW-002-D-BROWN,512.0,1,512.0,100147718,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,512,2016-07-01,105
+211508,completed,2016-07-01,kcc_Bakheer Pocket Perfume,120.0,1,360.0,100147719,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,120,2016-07-01,13
+211509,completed,2016-07-01,kcc_Oudh Pocket Perfume,120.0,1,360.0,100147719,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,120,2016-07-01,13
+211510,completed,2016-07-01,kcc_Asool Pocket Perfume,120.0,1,360.0,100147719,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,120,2016-07-01,13
+211511,canceled,2016-07-01,Veet_3,165.0,2,330.0,100147720,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,330,2016-07-01,108
+211512,completed,2016-07-01,itter_AB 1141,640.0,1,640.0,100147721,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,640,2016-07-01,105
+211513,refund,2016-07-01,Veet_5,165.0,2,330.0,100147722,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,330,2016-07-01,108
+211514,canceled,2016-07-01,sst_Logic  3-Regular fit-Medium,1950.0,1,1950.0,100147723,Men's Fashion,105259,0.0,Bank or Card,Gross,1950,2016-07-01,11
+211516,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147724,Beauty & Grooming,C-ISB-84674,0.0,Cash_on_delivery,Net,360,2016-07-01,35
+211517,completed,2016-07-01,kkc_Hayam King Air Freshener,144.0,1,144.0,100147725,Home & Living,Unknown,0.0,Cash_on_delivery,Net,144,2016-07-01,109
+211518,refund,2016-07-01,UK_Sohan Halwa Tin Pack 400 Gms,285.0,1,285.0,100147726,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,285,2016-07-01,110
+211519,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147727,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,111
+211520,completed,2016-07-01,Teenz_B-0541,3250.0,1,3250.0,100147728,Women's Fashion,Unknown,0.0,Bank or Card,Net,3250,2016-07-01,112
+211521,canceled,2016-07-01,sapil_Sapil Passion Women 200ML,375.0,1,375.0,100147729,Beauty & Grooming,Unknown,0.0,Bank or Card,Gross,375,2016-07-01,113
+211522,completed,2016-07-01,kcc_active,180.0,1,180.0,100147730,Beauty & Grooming,C-KHC-34670,0.0,Cash_on_delivery,Net,180,2016-07-01,114
+211523,canceled,2016-07-01,Dynasty_Classic Cotton-Skin,1725.0,1,1725.0,100147731,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1725,2016-07-01,115
+211524,completed,2016-07-01,WE_ni72_parrot-veet-gift,1330.0,1,1330.0,100147732,Others,Unknown,0.0,Others,Net,1330,2016-07-01,116
+211525,canceled,2016-07-01,cos_prfume_9,5200.0,1,5200.0,100147733,Others,Unknown,0.0,Cash_on_delivery,Gross,5200,2016-07-01,117
+211526,canceled,2016-07-01,Trans_LW 509B,1350.0,1,1350.0,100147734,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,1350,2016-07-01,118
+211527,canceled,2016-07-01,Trans_LW 509B,1350.0,1,1350.0,100147735,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,1350,2016-07-01,118
+211529,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147737,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211528,canceled,2016-07-01,Trans_LW 509B,1350.0,1,1350.0,100147736,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,1350,2016-07-01,118
+211530,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147738,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211532,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147740,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211531,refund,2016-07-01,LC_3595471021182,8150.0,1,8150.0,100147739,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,8150,2016-07-01,117
+211533,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147741,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211534,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147742,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211535,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147743,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211536,canceled,2016-07-01,shoppingmania_18k Gold Filled Blue Ruby Necklace & Earrings,1499.0,1,3749.0,100147744,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1499,2016-07-01,119
+211537,canceled,2016-07-01,Teenz_R-0172-7,2250.0,1,3749.0,100147744,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2250,2016-07-01,119
+211540,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147746,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211539,canceled,2016-07-01,LC_3595471021182,8150.0,1,8150.0,100147745,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,8150,2016-07-01,117
+211541,canceled,2016-07-01,HOS_RLRW100,8300.0,1,17790.0,100147747,Beauty & Grooming,C-FSD-43702,0.0,Cash_on_delivery,Gross,8300,2016-07-01,120
+211542,canceled,2016-07-01,AKL_A131131293_FC-12,9490.0,1,17790.0,100147747,Women's Fashion,C-FSD-43702,0.0,Cash_on_delivery,Gross,9490,2016-07-01,120
+211543,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147748,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211544,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147749,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211545,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147750,Beauty & Grooming,C LHE 41938,0.0,Cash_on_delivery,Net,360,2016-07-01,59
+211546,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147751,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211547,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147752,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211548,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147753,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211549,canceled,2016-07-01,MYWALET_MW-014-BLACK,428.0,1,428.0,100147754,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,428,2016-07-01,121
+211550,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147755,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211551,canceled,2016-07-01,Xenium_WA-201611,860.0,1,1160.0,100147756,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,860,2016-07-01,122
+211552,canceled,2016-07-01,pak_B-32,300.0,1,1160.0,100147756,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,300,2016-07-01,122
+211553,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147757,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211554,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147758,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211555,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147759,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211556,refund,2016-07-01,rub_Rubian_VR-Box With Remote,1765.0,1,1765.0,100147760,Mobiles & Tablets,R-KHS-103982,0.0,Cash_on_delivery,Valid,1765,2016-07-01,106
+211557,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147761,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211558,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147762,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211559,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147763,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211560,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147764,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211561,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147765,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211562,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147766,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211563,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147767,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211564,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147768,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211565,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147769,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211566,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147770,Beauty & Grooming,C-MUX-30078,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211567,completed,2016-07-01,kkc_ Icy Menthol Oasis Prickly Heat Powder,80.0,1,80.0,100147771,Beauty & Grooming,R6596,0.0,Cash_on_delivery,Net,80,2016-07-01,123
+211568,refund,2016-07-01,shoppingmania_Enamel Retro NecklaceTitanic Heart Crystal Pendant,999.0,1,2559.0,100147772,Women's Fashion,Unknown,0.0,Cash_on_delivery,Valid,999,2016-07-01,124
+211569,refund,2016-07-01,Teenz_E-1574 silver,1560.0,1,2559.0,100147772,Others,Unknown,0.0,Cash_on_delivery,Valid,1560,2016-07-01,124
+211570,completed,2016-07-01,emo_HSP-17043-M,500.0,1,1049.0,100147773,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,500,2016-07-01,71
+211572,completed,2016-07-01,Emo_HST-28676-L,199.0,1,1049.0,100147773,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,199,2016-07-01,71
+211574,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,1049.0,100147773,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,71
+211575,refund,2016-07-01,RS_Pheni Desi Ghee 500gm,260.0,2,520.0,100147774,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,520,2016-07-01,125
+211576,refund,2016-07-01,Huawei Honor 4X,24499.0,1,24499.0,100147775,Mobiles & Tablets,R-LHW-104137,0.0,Cash_on_delivery,Valid,24499,2016-07-01,126
+211577,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,2,700.0,100147776,Soghaat,Unknown,0.0,Cash_on_delivery,Net,700,2016-07-01,127
+211580,canceled,2016-07-01,AUDIONIC6-954217-513546,540.0,1,540.0,100147778,Computing,Unknown,0.0,Cash_on_delivery,Gross,540,2016-07-01,128
+211578,completed,2016-07-01,Al Muhafiz Sohan Halwa Walnut,510.0,2,1370.0,100147777,Soghaat,Unknown,0.0,Cash_on_delivery,Net,1020,2016-07-01,129
+211579,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,1370.0,100147777,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,129
+211581,refund,2016-07-01,bata_leena-5176214-40-7,999.0,1,999.0,100147779,Women's Fashion,C-MUX-104110,0.0,Cash_on_delivery,Valid,999,2016-07-01,130
+211583,canceled,2016-07-01,Tiraaz_Tm-01-001-M,2508.0,1,2508.0,100147780,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2508,2016-07-01,131
+211585,canceled,2016-07-01,Tiraaz_Tm-01-001-M,2508.0,1,2508.0,100147781,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2508,2016-07-01,131
+211587,completed,2016-07-01,Audionic_B-334,1900.0,1,1100.0,100147782,Computing,R-LHE-90613,0.0,Cash_on_delivery,Net,1900,2016-07-01,132
+211588,canceled,2016-07-01,kcc_effect,140.0,1,140.0,100147783,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,140,2016-07-01,133
+211589,canceled,2016-07-01,kkc_Jasmine King Air Freshener,144.0,1,144.0,100147784,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,144,2016-07-01,133
+211590,refund,2016-07-01,bata_wein-8734881-44-10,1199.0,1,1199.0,100147785,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,1199,2016-07-01,134
+211593,canceled,2016-07-01,CU-0107-Slim Fit Small,1295.0,1,1295.0,100147787,Men's Fashion,Unknown,0.0,Bank or Card,Gross,1295,2016-07-01,135
+211592,completed,2016-07-01,itter_AB 1122,800.0,1,800.0,100147786,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,800,2016-07-01,136
+211595,completed,2016-07-01,itter_AB 1126,800.0,1,800.0,100147788,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,800,2016-07-01,136
+211596,refund,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147789,Beauty & Grooming,C-MUX-102023,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211597,completed,2016-07-01,itter_AB 1125,640.0,1,640.0,100147790,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,640,2016-07-01,136
+211598,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147791,Beauty & Grooming,C-MUX-102023,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211599,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147792,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211600,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147793,Beauty & Grooming,C-MUX-102023,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211602,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147795,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211601,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147794,Beauty & Grooming,C-MUX-102023,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211603,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147796,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211604,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147797,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211605,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147798,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211606,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147799,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211607,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147800,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211608,completed,2016-07-01,HR_Soan Papdi 500g,655.0,1,655.0,100147801,Soghaat,Unknown,0.0,Cash_on_delivery,Net,655,2016-07-01,136
+211609,canceled,2016-07-01,stitchers_TnT 012-L,1999.0,3,5997.0,100147802,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,5997,2016-07-01,138
+211611,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147803,Beauty & Grooming,C-GUJ-52213,0.0,Cash_on_delivery,Net,240,2016-07-01,137
+211612,canceled,2016-07-01,Ego_E02437-GN0-Green-XSM,2750.0,1,5445.0,100147804,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2750,2016-07-01,139
+211614,canceled,2016-07-01,Ref-Queen 5041-Black-38,2695.0,1,5445.0,100147804,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2695,2016-07-01,139
+211616,canceled,2016-07-01,B-power_8282391-44,2499.0,1,2499.0,100147805,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2499,2016-07-01,140
+211618,canceled,2016-07-01,dawlance_Health Zone Plus 30 - 1.5 Ton Air Conditioner,37550.0,1,37550.0,100147806,Appliances,Unknown,0.0,Cash_on_delivery,Gross,37550,2016-07-01,141
+211619,completed,2016-07-01,vitamin_Vita White,960.0,3,2880.0,100147807,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,2880,2016-07-01,142
+211620,completed,2016-07-01,sstop_Mini AIr Conditioner,1335.0,1,1335.0,100147808,Appliances,C-MUX-105333,0.0,Cash_on_delivery,Net,1335,2016-07-01,143
+211621,refund,2016-07-01,Rajesh_RAJ61,680.0,1,680.0,100147809,Appliances,Unknown,0.0,Cash_on_delivery,Valid,680,2016-07-01,144
+211622,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147810,Beauty & Grooming,C-MUX-105333,0.0,Cash_on_delivery,Net,360,2016-07-01,143
+211623,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147811,Beauty & Grooming,C-MUX-105333,0.0,Cash_on_delivery,Net,360,2016-07-01,143
+211625,completed,2016-07-01,BO_topfastRc-yellow,490.0,1,190.0,100147813,Kids & Baby,Unknown,300.0,Cash_on_delivery,Net,490,2016-07-01,145
+211624,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147812,Beauty & Grooming,C-MUX-105333,0.0,Cash_on_delivery,Net,360,2016-07-01,143
+211627,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147815,Beauty & Grooming,C-MUX-105333,0.0,Cash_on_delivery,Net,360,2016-07-01,143
+211626,canceled,2016-07-01,Al Muhafiz Sohan Halwa Walnut,510.0,1,510.0,100147814,Soghaat,Unknown,0.0,Bank or Card,Gross,510,2016-07-01,146
+211628,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147816,Beauty & Grooming,C-MUX-104331,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211630,completed,2016-07-01,HR_Pani Puri 360g,350.0,1,350.0,100147818,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,147
+211629,completed,2016-07-01,Rajesh_Ben 10 Rail,400.0,1,100.0,100147817,Kids & Baby,Unknown,300.0,Cash_on_delivery,Net,400,2016-07-01,145
+211631,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147819,Beauty & Grooming,C-MUX-104331,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211632,completed,2016-07-01,kcc_jazzy,140.0,1,140.0,100147820,Beauty & Grooming,C-MUX-104331,0.0,Cash_on_delivery,Net,140,2016-07-01,43
+211633,canceled,2016-07-01,Samsung Galaxy S7 Edge,88999.0,1,88999.0,100147821,Mobiles & Tablets,R-LHC-104138,0.0,Cash_on_delivery,Gross,88999,2016-07-01,148
+211634,refund,2016-07-01,BO_racingjeeoRC-silver,790.0,1,490.0,100147822,Kids & Baby,Unknown,300.0,Cash_on_delivery,Valid,790,2016-07-01,145
+211635,completed,2016-07-01,Rajesh_Green Ben 10 Educational Computer,670.0,1,370.0,100147823,Kids & Baby,Unknown,300.0,Cash_on_delivery,Net,670,2016-07-01,145
+211636,completed,2016-07-01,BO_nonRC-Jeep-Red,320.0,1,310.0,100147824,Kids & Baby,Unknown,157.38,Cash_on_delivery,Net,320,2016-07-01,145
+211637,completed,2016-07-01,BO_blocks-small-1,290.0,1,310.0,100147824,Kids & Baby,Unknown,142.62,Cash_on_delivery,Net,290,2016-07-01,145
+211638,canceled,2016-07-01,osaka_3.5W LED BULB,188.0,3,564.0,100147825,Appliances,Unknown,0.0,Cash_on_delivery,Gross,564,2016-07-01,149
+211639,completed,2016-07-01,Dany_Genius Tab G7 Metallica,6500.0,1,6500.0,100147826,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Net,6500,2016-07-01,150
+211640,refund,2016-07-01,Mochika_M0001125-8,1913.0,1,1913.0,100147827,Men's Fashion,C SKZ 41328,0.0,Cash_on_delivery,Valid,1913,2016-07-01,56
+211642,refund,2016-07-01,Mochika_M0001125-12,1913.0,1,1913.0,100147828,Men's Fashion,C SKZ 41328,0.0,Cash_on_delivery,Valid,1913,2016-07-01,56
+211644,completed,2016-07-01,Dany256564981654986456,100.0,1,165.0,100147829,Computing,Unknown,54.79,Cash_on_delivery,Net,100,2016-07-01,22
+211645,completed,2016-07-01,Dany72474879523146357896,65.0,1,165.0,100147829,Computing,Unknown,35.62,Cash_on_delivery,Net,65,2016-07-01,22
+211646,completed,2016-07-01,cr_PEANUT SALTY-200 GM,90.0,1,165.0,100147829,Soghaat,Unknown,49.32,Cash_on_delivery,Net,90,2016-07-01,22
+211647,completed,2016-07-01,cr_REWARI CHAKWAL,110.0,1,165.0,100147829,Soghaat,Unknown,60.27,Cash_on_delivery,Net,110,2016-07-01,22
+211648,completed,2016-07-01,kcc_active,180.0,1,180.0,100147830,Beauty & Grooming,80226,0.0,Cash_on_delivery,Net,180,2016-07-01,151
+211649,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,1,635.0,100147831,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,152
+211650,completed,2016-07-01,UK_Sohan Halwa Tin Pack 400 Gms,285.0,1,635.0,100147831,Soghaat,Unknown,0.0,Cash_on_delivery,Net,285,2016-07-01,152
+211651,completed,2016-07-01,AKL_A131128850_SS-19_Blue,3975.0,1,3975.0,100147832,Women's Fashion,Unknown,0.0,Cash_on_delivery,Net,3975,2016-07-01,153
+211652,canceled,2016-07-01,ihijab_PN025,639.0,1,1269.0,100147833,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,639,2016-07-01,154
+211653,canceled,2016-07-01,bed&rest_Danika 3D,630.0,1,1269.0,100147833,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,630,2016-07-01,154
+211654,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147834,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211655,refund,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147835,Beauty & Grooming,C-MUX-31510,0.0,Cash_on_delivery,Valid,320,2016-07-01,43
+211656,canceled,2016-07-01,VITAMIN_KOJIC ACID WHITENING CREAM,280.0,1,280.0,100147836,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,280,2016-07-01,155
+211657,refund,2016-07-01,PHILIPS_HP8600_32,2950.0,1,2950.0,100147837,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,2950,2016-07-01,156
+211658,completed,2016-07-01,b&d_Citrus Juicer CJ650,3000.0,1,3000.0,100147838,Appliances,Unknown,0.0,Cash_on_delivery,Net,3000,2016-07-01,157
+211659,canceled,2016-07-01,vitamin_Kojic Acid Whitening Face Wash,280.0,1,280.0,100147839,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,280,2016-07-01,155
+211660,completed,2016-07-01,E TCF_Educate a child for a month-PKR 1250,1250.0,1,994.0,100147840,Others,Unknown,0.0,Cash_on_delivery,Net,1250,2016-07-01,16
+211661,canceled,2016-07-01,bata_comfit-8614737-42-8,899.0,1,899.0,100147841,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,899,2016-07-01,158
+211663,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147842,Beauty & Grooming,C-MUX-48271,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211664,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147843,Beauty & Grooming,C-MUX-48275,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211665,completed,2016-07-01,kcc_Cool Pocket Perfume,120.0,1,240.0,100147844,Beauty & Grooming,C-MUX-48275,0.0,Cash_on_delivery,Net,120,2016-07-01,43
+211666,completed,2016-07-01,kcc_Bold Pocket Perfume,120.0,1,240.0,100147844,Beauty & Grooming,C-MUX-48275,0.0,Cash_on_delivery,Net,120,2016-07-01,43
+211667,canceled,2016-07-01,UK_Gift Box Mix Sweets 500 Gms,330.0,1,4060.0,100147845,Soghaat,Unknown,0.0,Others,Gross,330,2016-07-01,159
+211668,canceled,2016-07-01,RS_Gulab jaman Tin,435.0,1,4060.0,100147845,Soghaat,Unknown,0.0,Others,Gross,435,2016-07-01,159
+211669,canceled,2016-07-01,Dynasty_Dynasty Spark-Off-White,3295.0,1,4060.0,100147845,Men's Fashion,Unknown,0.0,Others,Gross,3295,2016-07-01,159
+211670,canceled,2016-07-01,mitsubhisi_1.0 Ton - SRK-13CMK,45215.0,1,45215.0,100147846,Appliances,R-isb-57478,0.0,Cash_on_delivery,Gross,45215,2016-07-01,101
+211671,canceled,2016-07-01,Dynasty_Dynasty Spark-Grey,3295.0,1,4810.0,100147847,Men's Fashion,Unknown,0.0,Others,Gross,3295,2016-07-01,159
+211672,canceled,2016-07-01,RS_Gulab jaman Tin,435.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,435,2016-07-01,159
+211673,canceled,2016-07-01,UK_Bangali Rasgulla Tin Pack  500 Gms,260.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,260,2016-07-01,159
+211674,canceled,2016-07-01,UK_Gift Box Mix Sweets 500 Gms,330.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,330,2016-07-01,159
+211675,canceled,2016-07-01,UK_Namkino Masala Sev 200 Gms,80.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,159
+211676,canceled,2016-07-01,UK_Namkino Daal Moth Classic 160 Gms,90.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,90,2016-07-01,159
+211677,canceled,2016-07-01,UK_ Namkino Daal Moong 200 Gms,90.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,90,2016-07-01,159
+211678,canceled,2016-07-01,UK_Bhel Puri 200 Gms,150.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,150,2016-07-01,159
+211679,canceled,2016-07-01,UK_Namkino Khat Mitha Mix 200 Gms,80.0,1,4810.0,100147847,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,159
+211680,refund,2016-07-01,Ctees_Paris Butterflies Pouch,990.0,2,1980.0,100147848,Women's Fashion,0KNFM,0.0,Cash_on_delivery,Valid,1980,2016-07-01,160
+211681,refund,2016-07-01,bata_comfit-8644502-42-8,699.0,1,699.0,100147849,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,699,2016-07-01,161
+211683,canceled,2016-07-01,Emo_SS-18755-41,699.0,1,699.0,100147850,Men's Fashion,Unknown,0.0,Others,Gross,699,2016-07-01,162
+211685,completed,2016-07-01,itter_AB 1211,250.0,1,250.0,100147851,Beauty & Grooming,C_LHC_102999,0.0,Cash_on_delivery,Net,250,2016-07-01,163
+211686,completed,2016-07-01,itter_AB 1211,250.0,1,250.0,100147852,Beauty & Grooming,C_LHC_102999,0.0,Cash_on_delivery,Net,250,2016-07-01,163
+211687,completed,2016-07-01,itter_AB 1207,250.0,1,250.0,100147853,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,250,2016-07-01,164
+211688,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,5,1200.0,100147854,Beauty & Grooming,R-FSD-58130,0.0,Cash_on_delivery,Net,1200,2016-07-01,20
+211689,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147855,Beauty & Grooming,R-FSD-58130,0.0,Cash_on_delivery,Net,240,2016-07-01,20
+211690,completed,2016-07-01,WE_TU2,1530.0,1,529.0,100147856,Women's Fashion,Unknown,1300.65,Cash_on_delivery,Net,1530,2016-07-01,165
+211691,completed,2016-07-01,bata_bags_9064517-Brown,1999.0,1,529.0,100147856,Women's Fashion,Unknown,1699.35,Cash_on_delivery,Net,1999,2016-07-01,165
+211692,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,10,2400.0,100147857,Beauty & Grooming,R-FSD-58130,0.0,Cash_on_delivery,Net,2400,2016-07-01,20
+211693,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147858,Beauty & Grooming,R-FSD-58130,0.0,Cash_on_delivery,Net,240,2016-07-01,20
+211694,canceled,2016-07-01,sapil_Sapil Nancy Women 200ML,375.0,1,375.0,100147859,Beauty & Grooming,Unknown,0.0,Bank or Card,Gross,375,2016-07-01,113
+211695,completed,2016-07-01,sapil_Sapil Nancy Women 200ML,375.0,1,375.0,100147860,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,375,2016-07-01,113
+211696,refund,2016-07-01,ajmery_TA-3,999.0,1,999.0,100147861,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,999,2016-07-01,166
+211697,completed,2016-07-01,rub_Rubian_VR-Box With Remote,1765.0,1,1765.0,100147862,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Net,1765,2016-07-01,167
+211698,completed,2016-07-01,RS_Gulab jaman Tin,435.0,1,235.0,100147863,Soghaat,Unknown,200.0,Cash_on_delivery,Net,435,2016-07-01,168
+211699,completed,2016-07-01,Emo-CT-24304 Green 8 Pocket Cargo Trouser-34,999.0,1,100.0,100147864,Men's Fashion,R-LHE-90613,0.0,Cash_on_delivery,Net,999,2016-07-01,169
+211701,canceled,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,3,1050.0,100147865,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,1050,2016-07-01,170
+211702,completed,2016-07-01,UK_Kala Jamun Tin Pack 500 Gms,260.0,1,180.0,100147866,Soghaat,Unknown,136.84,Cash_on_delivery,Net,260,2016-07-01,168
+211703,completed,2016-07-01,tram_TT25125100,120.0,1,180.0,100147866,Home & Living,Unknown,63.16,Cash_on_delivery,Net,120,2016-07-01,168
+211704,completed,2016-07-01,US-MSK-6-pink-2T,799.0,1,0.0,100147867,Kids & Baby,Unknown,0.0,Others,Net,799,2016-07-01,171
+211706,completed,2016-07-01,ihijab_PN025,639.0,1,639.0,100147868,Women's Fashion,30071,0.0,Cash_on_delivery,Net,639,2016-07-01,172
+211707,completed,2016-07-01,kcc_krone deal,360.0,3,1080.0,100147869,Beauty & Grooming,c-mux42203,0.0,Cash_on_delivery,Net,1080,2016-07-01,43
+211708,completed,2016-07-01,ihijab_PN041,799.0,1,799.0,100147870,Women's Fashion,30071,0.0,Cash_on_delivery,Net,799,2016-07-01,172
+211709,completed,2016-07-01,asimjofaeanew_4A,5597.0,1,5597.0,100147871,Women's Fashion,Unknown,0.0,Cash_on_delivery,Net,5597,2016-07-01,173
+211710,completed,2016-07-01,tram_TT25128100,215.0,1,15.0,100147872,Home & Living,Unknown,200.0,Cash_on_delivery,Net,215,2016-07-01,174
+211711,completed,2016-07-01,Al Muhafiz Sohan Halwa Almond,350.0,3,1050.0,100147873,Soghaat,Unknown,0.0,Cash_on_delivery,Net,1050,2016-07-01,175
+211712,completed,2016-07-01,jackpot_JP-902,1315.0,1,1315.0,100147874,Appliances,Unknown,0.0,Cash_on_delivery,Net,1315,2016-07-01,176
+211713,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147875,Beauty & Grooming,C-MUX-42203,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211714,completed,2016-07-01,kcc_krone deal,360.0,1,360.0,100147876,Beauty & Grooming,C-MUX-42203,0.0,Cash_on_delivery,Net,360,2016-07-01,43
+211715,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147877,Beauty & Grooming,C-MUX-42203,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211716,completed,2016-07-01,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147878,Beauty & Grooming,C-MUX-42203,0.0,Cash_on_delivery,Net,240,2016-07-01,43
+211717,completed,2016-07-01,sanasafinaz_march16_10B-Nationwide Delivery,5950.0,1,5950.0,100147879,Women's Fashion,Unknown,0.0,Cash_on_delivery,Net,5950,2016-07-01,177
+211719,completed,2016-07-01,kcc_glamour deal,320.0,1,320.0,100147880,Beauty & Grooming,C-MUX-42203,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+211720,completed,2016-07-01,bed&rest_Danika 3D,630.0,1,540.0,100147881,Home & Living,Unknown,225.0,Cash_on_delivery,Net,630,2016-07-01,178
+211721,completed,2016-07-01,HR_Punjabi Tadka 200g,210.0,1,540.0,100147881,Soghaat,Unknown,75.0,Cash_on_delivery,Net,210,2016-07-01,178
+211722,completed,2016-07-01,UK_Namkino Crunchy Nut Mix 200 Gms,100.0,1,100.0,100147882,Soghaat,Unknown,0.0,Cash_on_delivery,Net,100,2016-07-01,179
+211723,refund,2016-07-01,Royal_Energy saver Fan 56 New Model,3900.0,1,3900.0,100147883,Appliances,Unknown,0.0,Cash_on_delivery,Valid,3900,2016-07-01,180
+211724,canceled,2016-07-01,emo_Emo-MH-25104-M,899.0,2,1798.0,100147884,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1798,2016-07-01,181
+211726,canceled,2016-07-01,urban_URT0025 -L,1100.0,2,2200.0,100147885,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2200,2016-07-01,182
+211728,canceled,2016-07-01,Emo-CT-24302 Brown Twill Cotton 8 Pocket Cargo Trouser-30,999.0,2,1998.0,100147886,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1998,2016-07-01,182
+211730,completed,2016-07-01,J&J_JJR-4,149.0,1,149.0,100147887,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,149,2016-07-01,183
+211731,canceled,2016-07-01,emo_Emo-MH-19734-M,799.0,2,1598.0,100147888,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1598,2016-07-01,182
+211733,completed,2016-07-01,RS_Soan Papri-250gm,150.0,1,150.0,100147889,Soghaat,41078,0.0,Cash_on_delivery,Net,150,2016-07-01,184
+211734,canceled,2016-07-02,UK_Namkino Mix Nimco 5 Pcs Gift Pack,495.0,1,495.0,100147890,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,495,2016-07-01,185
+211735,completed,2016-07-02,dawlance_Refrigerator 9170WB Energy Saver,33685.0,1,33685.0,100147891,Appliances,Unknown,0.0,Cash_on_delivery,Net,33685,2016-07-01,186
+211736,completed,2016-07-02,UK_Bangali Chum Chum Tin Pack  500 Gms,260.0,1,320.0,100147892,Soghaat,Unknown,100.0,Cash_on_delivery,Net,260,2016-07-01,168
+211737,completed,2016-07-02,UK_Bangali Rasgulla Tin Pack  500 Gms,260.0,1,320.0,100147892,Soghaat,Unknown,100.0,Cash_on_delivery,Net,260,2016-07-01,168
+211738,canceled,2016-07-02,bed&rest_B3,630.0,1,1035.0,100147893,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,630,2016-07-01,187
+211739,canceled,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,1035.0,100147893,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,187
+211740,canceled,2016-07-02,tram_TT23080083,55.0,1,1035.0,100147893,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,55,2016-07-01,187
+211741,canceled,2016-07-02,Samsung Galaxy J7,25999.0,1,25999.0,100147894,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,25999,2016-07-01,188
+211742,completed,2016-07-02,Al Muhafiz Sohan Halwa Walnut,510.0,1,210.0,100147895,Soghaat,Unknown,300.0,Cash_on_delivery,Net,510,2016-07-01,189
+211743,refund,2016-07-02,ajmery_BAT-3-S,999.0,1,0.0,100147896,Men's Fashion,Unknown,0.0,Others,Valid,999,2016-07-01,190
+211745,completed,2016-07-02,UC_Dark Navy Plain Polo-XL,650.0,1,2600.0,100147897,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,650,2016-07-01,191
+211747,completed,2016-07-02,UC_Rust Plain Polo-XL,650.0,1,2600.0,100147897,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,650,2016-07-01,191
+211749,completed,2016-07-02,UC_Purple Plain Polo-XL,650.0,1,2600.0,100147897,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,650,2016-07-01,191
+211751,completed,2016-07-02,UC_Lagoon Plain Polo-XL,650.0,1,2600.0,100147897,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,650,2016-07-01,191
+211753,canceled,2016-07-02,audionic9-542175-49576,2950.0,1,2950.0,100147898,Entertainment,Unknown,0.0,Cash_on_delivery,Gross,2950,2016-07-01,192
+211754,canceled,2016-07-02,shoppers stop_AndroidOTGAdaptor-7,220.0,1,220.0,100147899,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Gross,220,2016-07-01,193
+211755,completed,2016-07-02,RS_Kaju Barfi,425.0,10,4250.0,100147900,Soghaat,Unknown,0.0,Cash_on_delivery,Net,4250,2016-07-01,194
+211756,canceled,2016-07-02,sputnik_806/14A-8,2800.0,1,4000.0,100147901,Men's Fashion,Unknown,0.0,Bank or Card,Gross,2800,2016-07-01,195
+211758,canceled,2016-07-02,Rajesh_White Wax Vac Ear Cleaner,1200.0,1,4000.0,100147901,Appliances,Unknown,0.0,Bank or Card,Gross,1200,2016-07-01,195
+211759,canceled,2016-07-02,Apple iPhone 6S 64GB,96499.0,1,96499.0,100147902,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,96499,2016-07-01,196
+211760,canceled,2016-07-02,Samsung Galaxy A7 710F (2016),48000.0,1,48000.0,100147903,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,48000,2016-07-01,196
+211761,canceled,2016-07-02,casio_MTP-1183A-2ADF,2600.0,1,2600.0,100147904,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,2600,2016-07-01,197
+211762,canceled,2016-07-02,stitchers_TnT 034-L,1499.0,1,1499.0,100147905,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1499,2016-07-01,198
+211764,canceled,2016-07-02,mitsubishi_1.5 ton SRC 18CLK,55850.0,1,55850.0,100147906,Appliances,Unknown,0.0,Cash_on_delivery,Gross,55850,2016-07-01,199
+211765,canceled,2016-07-02,Samsung Galaxy A7 710F (2016),48000.0,1,48000.0,100147907,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,48000,2016-07-01,200
+211766,completed,2016-07-02,qzs_Blue Cotton Broad Neck T-shirt,795.0,1,795.0,100147908,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,795,2016-07-01,201
+211767,completed,2016-07-02,mitsubishi_1.5 ton SRC 18CLK,55850.0,1,55850.0,100147909,Appliances,Unknown,0.0,Cash_on_delivery,Net,55850,2016-07-01,199
+211768,canceled,2016-07-02,Samsung Galaxy A7 710F (2016),48000.0,1,48000.0,100147910,Mobiles & Tablets,Unknown,0.0,Others,Gross,48000,2016-07-01,200
+211769,canceled,2016-07-02,Apple iPhone 6S 16GB,80000.0,1,80000.0,100147911,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,80000,2016-07-01,200
+211770,completed,2016-07-02,vitamin_Milk Thistle Liver Formula,480.0,1,480.0,100147912,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,480,2016-07-01,202
+211771,refund,2016-07-02,vitamin_Milk Thistle Liver Formula,480.0,1,480.0,100147913,Health & Sports,Unknown,0.0,Cash_on_delivery,Valid,480,2016-07-01,202
+211772,refund,2016-07-02,Q&Q_VW90-112Y,1700.0,1,1700.0,100147914,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,1700,2016-07-01,203
+211773,canceled,2016-07-02,emo_MK-19113-S,1299.0,1,12525.1,100147915,Men's Fashion,Unknown,0.0,Others,Gross,1299,2016-07-01,204
+211775,canceled,2016-07-02,Tiraaz_Tm-02-012-S,2678.0,1,12525.1,100147915,Men's Fashion,Unknown,0.0,Others,Gross,2678,2016-07-01,204
+211777,canceled,2016-07-02,Tiraaz_Tm-02-016-S,3103.0,1,12525.1,100147915,Men's Fashion,Unknown,0.0,Others,Gross,3103,2016-07-01,204
+211779,refund,2016-07-02,Dynasty_Dynasty Spark-Royal Blue,3295.0,1,9885.0,100147916,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,3295,2016-07-01,205
+211780,refund,2016-07-02,Dynasty_Dynasty Spark-French Blue,3295.0,1,9885.0,100147916,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,3295,2016-07-01,205
+211781,refund,2016-07-02,Dynasty_Dynasty Spark-Brown,3295.0,1,9885.0,100147916,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,3295,2016-07-01,205
+211782,canceled,2016-07-02,Emo_SS-24020-42,1050.0,1,5342.98,100147917,Men's Fashion,Unknown,0.0,Others,Gross,1050,2016-07-01,204
+211784,canceled,2016-07-02,GBH_GS802-7,2995.0,1,2995.0,100147918,Others,Unknown,0.0,Cash_on_delivery,Gross,2995,2016-07-01,206
+211786,refund,2016-07-02,Mochika_M0001129-10,1148.0,1,1148.0,100147919,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,1148,2016-07-01,207
+211788,canceled,2016-07-02,ajmery_TA-3,999.0,1,999.0,100147920,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,999,2016-07-01,207
+211791,completed,2016-07-02,RS_cake rusk,190.0,1,190.0,100147922,Soghaat,Unknown,0.0,Cash_on_delivery,Net,190,2016-07-01,208
+211789,canceled,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,630.0,100147921,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,209
+211790,canceled,2016-07-02,RS_Karachi Halwa Tin,280.0,1,630.0,100147921,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,280,2016-07-01,209
+211792,refund,2016-07-02,cr_AJWA DATES (400 GM),925.0,1,725.0,100147923,Soghaat,Unknown,200.0,Cash_on_delivery,Valid,925,2016-07-01,210
+211793,completed,2016-07-02,kcc_Bold Pocket Perfume,120.0,2,240.0,100147924,Beauty & Grooming,C-SKZ43603,0.0,Cash_on_delivery,Net,240,2016-07-01,211
+211794,completed,2016-07-02,UK_Gift Box Pistachio Delight 500 Gms,370.0,1,170.0,100147925,Soghaat,Unknown,200.0,Cash_on_delivery,Net,370,2016-07-01,212
+211795,completed,2016-07-02,kcc_Sultanat Pocket Perfume,120.0,1,120.0,100147926,Beauty & Grooming,C-SKZ43603,0.0,Cash_on_delivery,Net,120,2016-07-01,213
+211796,completed,2016-07-02,kcc_Asool Pocket Perfume,120.0,1,120.0,100147927,Beauty & Grooming,C-SKZ43603,0.0,Cash_on_delivery,Net,120,2016-07-01,213
+211797,completed,2016-07-02,UK_Gift Box Pistachio Delight 500 Gms,370.0,1,170.0,100147928,Soghaat,Unknown,200.0,Cash_on_delivery,Net,370,2016-07-01,212
+211798,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147929,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,68
+211799,canceled,2016-07-02,Haier G20,4380.0,2,8760.0,100147930,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Gross,8760,2016-07-01,214
+211800,canceled,2016-07-02,Eco Star_32U557,20104.0,1,20104.0,100147931,Entertainment,v,0.0,Bank or Card,Gross,20104,2016-07-01,215
+211801,canceled,2016-07-02,Dany6-954217-555652,2050.0,10,20500.0,100147932,Computing,Unknown,0.0,Cash_on_delivery,Gross,20500,2016-07-01,216
+211802,completed,2016-07-02,kcc_lavender,120.0,1,264.0,100147933,Home & Living,C-PEW-33551,0.0,Cash_on_delivery,Net,120,2016-07-01,32
+211803,completed,2016-07-02,kkc_Fayha King Air Freshener,144.0,1,264.0,100147933,Home & Living,C-PEW-33551,0.0,Cash_on_delivery,Net,144,2016-07-01,32
+211804,completed,2016-07-02,kkc_Lavender King Air Freshener,144.0,1,144.0,100147934,Home & Living,3293,0.0,Cash_on_delivery,Net,144,2016-07-01,32
+211805,completed,2016-07-02,kcc_rose,120.0,1,120.0,100147935,Home & Living,105114,0.0,Cash_on_delivery,Net,120,2016-07-01,217
+211806,completed,2016-07-02,kcc_fresh,180.0,1,180.0,100147936,Beauty & Grooming,105114,0.0,Cash_on_delivery,Net,180,2016-07-01,217
+211807,canceled,2016-07-02,west point_WF-306,3070.0,1,3070.0,100147937,Appliances,Unknown,0.0,Cash_on_delivery,Gross,3070,2016-07-01,218
+211808,completed,2016-07-02,RS_Sohan Halwa_Tin-1000 GM,600.0,2,1200.0,100147938,Soghaat,Unknown,0.0,Cash_on_delivery,Net,1200,2016-07-01,219
+211810,refund,2016-07-02,kcc_glamour deal,320.0,1,320.0,100147939,Beauty & Grooming,c-uet-44938,0.0,Cash_on_delivery,Valid,320,2016-07-01,36
+211811,refund,2016-07-02,Huawei P8 lite,19370.0,1,19370.0,100147940,Mobiles & Tablets,C-RWP-31924,0.0,Cash_on_delivery,Valid,19370,2016-07-01,220
+211812,canceled,2016-07-02,Samsung Galaxy A7 710F (2016),48000.0,1,48000.0,100147941,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,48000,2016-07-01,221
+211813,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147942,Soghaat,60615,0.0,Cash_on_delivery,Net,350,2016-07-01,222
+211815,completed,2016-07-02,Audionic_LT-486,250.0,1,250.0,100147944,Computing,101651,0.0,Cash_on_delivery,Net,250,2016-07-01,223
+211814,completed,2016-07-02,kcc_fresh,180.0,1,180.0,100147943,Beauty & Grooming,105114,0.0,Cash_on_delivery,Net,180,2016-07-01,217
+211816,canceled,2016-07-02,Huawei Y221,4530.0,1,4530.0,100147945,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Gross,4530,2016-07-01,218
+211817,completed,2016-07-02,ajmery_TA-3,999.0,1,999.0,100147946,Men's Fashion,C-ISB-102725,0.0,Cash_on_delivery,Net,999,2016-07-01,35
+211818,completed,2016-07-02,ajmery_1-AJ,1099.0,1,1099.0,100147947,Men's Fashion,C-ISB-102725,0.0,Cash_on_delivery,Net,1099,2016-07-01,35
+211819,completed,2016-07-02,alpina_Popcorn Maker SF-2608,3150.0,1,3150.0,100147948,Appliances,Unknown,0.0,Cash_on_delivery,Net,3150,2016-07-01,224
+211820,refund,2016-07-02,Haier M108,3100.0,1,3100.0,100147949,Mobiles & Tablets,C-ISB-43887,0.0,Cash_on_delivery,Valid,3100,2016-07-01,35
+211821,refund,2016-07-02,Gree_24CZ8,72350.0,1,72350.0,100147950,Appliances,R-LHW-103735,0.0,Cash_on_delivery,Valid,72350,2016-07-01,225
+211822,completed,2016-07-02,kcc_glamour deal,320.0,5,1600.0,100147951,Beauty & Grooming,C-RWP-31924,0.0,Cash_on_delivery,Net,1600,2016-07-01,33
+211823,completed,2016-07-02,sentiments_Ferrero Rocher Gift Box,1.0,1,0.0,100147952,Others,Unknown,1.0,Cash_on_delivery,Net,1,2016-07-01,226
+211824,canceled,2016-07-02,hol_A-406M-42,1690.0,1,1690.0,100147953,Men's Fashion,Unknown,0.0,Bank or Card,Gross,1690,2016-07-01,227
+211826,refund,2016-07-02,Samsung Galaxy A3,25999.0,1,25999.0,100147954,Mobiles & Tablets,C-HDD-44781,0.0,Cash_on_delivery,Valid,25999,2016-07-01,64
+211827,canceled,2016-07-02,Al Muhafiz Sohan Halwa Walnut,510.0,1,510.0,100147955,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,510,2016-07-01,146
+211828,completed,2016-07-02,PHILIPS_HP8105_29,2340.0,1,2340.0,100147956,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,2340,2016-07-01,219
+211829,completed,2016-07-02,kcc_glamour deal,320.0,1,320.0,100147957,Beauty & Grooming,C-MUX-51991,0.0,Cash_on_delivery,Net,320,2016-07-01,228
+211830,canceled,2016-07-02,Veet_4,165.0,3,495.0,100147958,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Gross,495,2016-07-01,229
+211831,completed,2016-07-02,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,760.0,100147959,Soghaat,C-RWP-31924,0.0,Cash_on_delivery,Net,760,2016-07-01,33
+211832,completed,2016-07-02,RS_Sohan Halwa_Tin-1000 GM,600.0,1,600.0,100147960,Soghaat,C-RWP-31924,0.0,Cash_on_delivery,Net,600,2016-07-01,33
+211834,completed,2016-07-02,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,760.0,100147961,Soghaat,C-RWP-31924,0.0,Cash_on_delivery,Net,760,2016-07-01,33
+211835,completed,2016-07-02,UK_Namkino Mix Nimco 8 Pcs Gift Pack,760.0,1,760.0,100147962,Soghaat,C-RWP-31924,0.0,Cash_on_delivery,Net,760,2016-07-01,33
+211836,completed,2016-07-02,kcc_glamour deal,320.0,2,640.0,100147963,Beauty & Grooming,C-RWP-31924,0.0,Cash_on_delivery,Net,640,2016-07-01,33
+211837,completed,2016-07-02,RS_Gulab jaman Tin,435.0,1,435.0,100147964,Soghaat,C-RWP-31924,0.0,Cash_on_delivery,Net,435,2016-07-01,33
+211838,canceled,2016-07-02,RS_Baklawa 500gm,330.0,1,540.0,100147965,Soghaat,R-PEW-104414,0.0,Bank or Card,Gross,330,2016-07-01,230
+211839,canceled,2016-07-02,RS_Nan Khatai,210.0,1,540.0,100147965,Soghaat,R-PEW-104414,0.0,Bank or Card,Gross,210,2016-07-01,230
+211840,canceled,2016-07-02,philips_HD8323/01,20890.0,1,20890.0,100147966,Appliances,C-FSD-104646,0.0,Cash_on_delivery,Gross,20890,2016-07-01,231
+211841,completed,2016-07-02,RS_Baklawa 500gm,330.0,2,1790.0,100147967,Soghaat,Unknown,0.0,Cash_on_delivery,Net,660,2016-07-01,232
+211842,completed,2016-07-02,RS_cake rusk,190.0,1,1790.0,100147967,Soghaat,Unknown,0.0,Cash_on_delivery,Net,190,2016-07-01,232
+211843,completed,2016-07-02,cr_ALMOND PLAIN-500 GM,940.0,1,1790.0,100147967,Soghaat,Unknown,0.0,Cash_on_delivery,Net,940,2016-07-01,232
+211844,refund,2016-07-02,dawlance_Health Zone Plus 15 - 1 Ton Air Conditioner,30205.0,1,30205.0,100147968,Appliances,Unknown,0.0,Cash_on_delivery,Valid,30205,2016-07-01,233
+211845,completed,2016-07-02,kcc_glamour deal,320.0,1,320.0,100147969,Beauty & Grooming,C-KHS-43436,0.0,Cash_on_delivery,Net,320,2016-07-01,44
+211846,completed,2016-07-02,kcc_glamour deal,320.0,1,320.0,100147970,Beauty & Grooming,C-KHS-43436,0.0,Cash_on_delivery,Net,320,2016-07-01,44
+211847,refund,2016-07-02,Audionic_B-880,1375.0,1,1375.0,100147971,Computing,Unknown,0.0,Cash_on_delivery,Valid,1375,2016-07-01,234
+211848,completed,2016-07-02,dawlance_Health Zone Plus 15 - 1 Ton Air Conditioner,30205.0,1,30205.0,100147972,Appliances,R-PEW-41424,0.0,Cash_on_delivery,Net,30205,2016-07-01,42
+211849,refund,2016-07-02,Al Muhafiz Sohan Halwa Walnut,510.0,1,510.0,100147973,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,510,2016-07-01,235
+211850,completed,2016-07-02,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,1.0,100147974,Beauty & Grooming,C-KHS-43436,0.0,Cash_on_delivery,Net,240,2016-07-01,44
+211851,canceled,2016-07-02,mm_AG-3017,2070.0,1,2070.0,100147975,Appliances,Unknown,0.0,Bank or Card,Gross,2070,2016-07-01,235
+211852,refund,2016-07-02,VITAMIN_VITA HAIR TREATMENT,2000.0,1,3200.0,100147976,Beauty & Grooming,C-PEW-103055,0.0,Cash_on_delivery,Valid,2000,2016-07-01,236
+211853,refund,2016-07-02,vitamin_Aloe Vera Plus,400.0,3,3200.0,100147976,Health & Sports,C-PEW-103055,0.0,Cash_on_delivery,Valid,1200,2016-07-01,236
+211854,completed,2016-07-02,audionic6-954217-562582,585.0,1,0.0,100147977,Computing,R-LHC-104412,0.0,Others,Net,585,2016-07-01,237
+211855,canceled,2016-07-02,MYWALET_MW-060-BROWN,626.0,1,7977.8,100147978,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,626,2016-07-01,238
+211856,canceled,2016-07-02,WE_MA14,1658.0,1,7977.8,100147978,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1658,2016-07-01,238
+211857,canceled,2016-07-02,Teenz_E-1573,1233.0,1,7977.8,100147978,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1233,2016-07-01,238
+211858,canceled,2016-07-02,AT-TT-2,1127.25,1,7977.8,100147978,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,1127,2016-07-01,238
+211859,canceled,2016-07-02,AT-MFNC-10,1160.65,1,7977.8,100147978,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,1161,2016-07-01,238
+211860,canceled,2016-07-02,BB_KIDSHD_PIR,799.0,1,7977.8,100147978,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,799,2016-07-01,238
+211861,canceled,2016-07-02,BB_KIDSHD_ BUL,799.0,1,7977.8,100147978,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,799,2016-07-01,238
+211862,canceled,2016-07-02,JBS_SL-STOR-031,280.0,1,7977.8,100147978,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,280,2016-07-01,238
+211863,canceled,2016-07-02,BO_nonRC-Jeep-Silver,320.0,1,7977.8,100147978,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,320,2016-07-01,238
+211864,completed,2016-07-02,AUDIONIC BT110 SPEAKER,775.0,1,775.0,100147979,Computing,Unknown,0.0,Cash_on_delivery,Net,775,2016-07-01,239
+211865,canceled,2016-07-02,Audionic_B-880,1375.0,1,11527.0,100147980,Computing,Unknown,0.0,Others,Gross,1375,2016-07-01,240
+211866,canceled,2016-07-02,Huawei Y221,4530.0,1,11527.0,100147980,Mobiles & Tablets,Unknown,0.0,Others,Gross,4530,2016-07-01,240
+211867,canceled,2016-07-02,sapil_Sapil Chichi Women 100ML,1647.0,1,11527.0,100147980,Beauty & Grooming,Unknown,0.0,Others,Gross,1647,2016-07-01,240
+211868,canceled,2016-07-02,AKL_A131128777_SS-33_Yellow,3975.0,1,11527.0,100147980,Women's Fashion,Unknown,0.0,Others,Gross,3975,2016-07-01,240
+211869,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100147981,Soghaat,C-PEW-33745,0.0,Cash_on_delivery,Net,350,2016-07-01,32
+211870,completed,2016-07-02,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100147982,Beauty & Grooming,80702,0.0,Cash_on_delivery,Net,240,2016-07-01,241
+211871,refund,2016-07-02,cr_AJWA DATES (400 GM),925.0,2,1850.0,100147983,Soghaat,R-RWP-103991,0.0,Cash_on_delivery,Valid,1850,2016-07-01,66
+211872,canceled,2016-07-02,Audionic_B-880,1375.0,1,11527.0,100147984,Computing,Unknown,0.0,Bank or Card,Gross,1375,2016-07-01,240
+211873,canceled,2016-07-02,Huawei Y221,4530.0,1,11527.0,100147984,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,4530,2016-07-01,240
+211874,canceled,2016-07-02,sapil_Sapil Chichi Women 100ML,1647.0,1,11527.0,100147984,Beauty & Grooming,Unknown,0.0,Bank or Card,Gross,1647,2016-07-01,240
+211875,canceled,2016-07-02,AKL_A131128777_SS-33_Yellow,3975.0,1,11527.0,100147984,Women's Fashion,Unknown,0.0,Bank or Card,Gross,3975,2016-07-01,240
+211876,completed,2016-07-02,UK_ Namkino Daal Moong 200 Gms,90.0,1,90.0,100147985,Soghaat,R6596,0.0,Cash_on_delivery,Net,90,2016-07-01,123
+211877,completed,2016-07-02,UK_Namkino All In One 200 Gms,80.0,1,80.0,100147986,Soghaat,R6596,0.0,Cash_on_delivery,Net,80,2016-07-01,123
+211878,refund,2016-07-02,Haier G20,4380.0,1,4380.0,100147987,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Valid,4380,2016-07-01,242
+211879,completed,2016-07-02,UK_Namkino Mix Nimco 400 Gms,170.0,1,170.0,100147988,Soghaat,R6596,0.0,Cash_on_delivery,Net,170,2016-07-01,123
+211880,completed,2016-07-02,UK_ Namkino Daal Moong 200 Gms,90.0,2,180.0,100147989,Soghaat,R6596,0.0,Cash_on_delivery,Net,180,2016-07-01,123
+211881,completed,2016-07-02,UK_Namkino Mix Nimco 400 Gms,170.0,1,170.0,100147990,Soghaat,R6596,0.0,Cash_on_delivery,Net,170,2016-07-01,123
+211882,completed,2016-07-02,UK_ Namkino Daal Moong 200 Gms,90.0,1,90.0,100147991,Soghaat,R6596,0.0,Cash_on_delivery,Net,90,2016-07-01,123
+211883,canceled,2016-07-02,Dany6-954217-691862,925.0,1,925.0,100147992,Computing,Unknown,0.0,Cash_on_delivery,Gross,925,2016-07-01,243
+211884,completed,2016-07-02,RS_Soan Papri-250gm,150.0,1,150.0,100147993,Soghaat,R6596,0.0,Cash_on_delivery,Net,150,2016-07-01,123
+211885,completed,2016-07-02,RS_Soan Papri-250gm,150.0,1,150.0,100147994,Soghaat,R6596,0.0,Cash_on_delivery,Net,150,2016-07-01,123
+211886,completed,2016-07-02,sentiments_WRK1612,1.0,1,0.0,100147995,Others,Unknown,1.0,Cash_on_delivery,Net,1,2016-07-01,244
+211887,completed,2016-07-02,kke_SCF690_17-A2P-global-001,1160.0,1,1160.0,100147996,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,1160,2016-07-01,245
+211888,completed,2016-07-02,RS_Soan Papri-250gm,150.0,1,150.0,100147997,Soghaat,R6596,0.0,Cash_on_delivery,Net,150,2016-07-01,123
+211889,completed,2016-07-02,PucaM_SS-35-OLIVE BLACK-42,1650.0,1,0.0,100147998,Men's Fashion,Unknown,0.0,Others,Net,1650,2016-07-01,246
+211891,completed,2016-07-02,ajmery_SYB-519-43,959.0,1,0.0,100147998,Men's Fashion,Unknown,0.0,Others,Net,959,2016-07-01,246
+211893,completed,2016-07-02,Bold_Classic,299.0,1,0.0,100147998,Beauty & Grooming,Unknown,0.0,Others,Net,299,2016-07-01,246
+211894,completed,2016-07-02,Bold_Active,299.0,1,0.0,100147998,Beauty & Grooming,Unknown,0.0,Others,Net,299,2016-07-01,246
+211895,completed,2016-07-02,PucaM_atlas-grey-42,1200.0,1,0.0,100147998,Men's Fashion,Unknown,0.0,Others,Net,1200,2016-07-01,246
+211898,completed,2016-07-02,UK_Soan Papdi Original 250 Gms,150.0,1,150.0,100148000,Soghaat,Unknown,0.0,Cash_on_delivery,Net,150,2016-07-01,247
+211897,completed,2016-07-02,Life source_GS300,1090.0,1,890.0,100147999,Health & Sports,Unknown,200.0,Cash_on_delivery,Net,1090,2016-07-01,248
+211899,canceled,2016-07-02,RS_Nan Khatai,210.0,1,210.0,100148001,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,210,2016-07-01,247
+211900,completed,2016-07-02,OPI_NLF16,990.0,1,990.0,100148002,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,990,2016-07-01,249
+211902,canceled,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,2,700.0,100148004,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,700,2016-07-01,243
+211903,canceled,2016-07-02,UK_Bangali Chum Chum Tin Pack  500 Gms,260.0,1,260.0,100148005,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,260,2016-07-01,247
+211901,completed,2016-07-02,kcc_fresh,180.0,1,180.0,100148003,Beauty & Grooming,RWP-R-50687,0.0,Cash_on_delivery,Net,180,2016-07-01,250
+211904,completed,2016-07-02,salience_SK101-L,1999.0,1,1999.0,100148006,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,1999,2016-07-01,251
+211906,completed,2016-07-02,UK_Chum Chum Tin Pack  500 Gms,260.0,1,260.0,100148007,Soghaat,Unknown,0.0,Cash_on_delivery,Net,260,2016-07-01,247
+211907,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148008,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,252
+211908,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148009,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,253
+211909,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148010,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,254
+211910,canceled,2016-07-02,panasonic_3411,3200.0,2,6400.0,100148011,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Gross,6400,2016-07-01,255
+211911,completed,2016-07-02,UK_Cake Rusk Cardamom 150 Gms,90.0,1,90.0,100148012,Soghaat,Unknown,0.0,Cash_on_delivery,Net,90,2016-07-01,247
+211912,completed,2016-07-02,UK_Namkino Mix Nimco 200 Gms,80.0,1,80.0,100148013,Soghaat,102795,0.0,Cash_on_delivery,Net,80,2016-07-01,256
+211913,completed,2016-07-02,bb_WSTIV,1100.0,1,2799.0,100148014,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,1100,2016-07-01,257
+211914,completed,2016-07-02,KI_bedsheet-2050mkmmbs,1699.0,1,2799.0,100148014,Home & Living,Unknown,0.0,Cash_on_delivery,Net,1699,2016-07-01,257
+211915,completed,2016-07-02,Al Muhafiz Sohan Halwa Cashew,570.0,1,370.0,100148015,Soghaat,Unknown,200.0,Cash_on_delivery,Net,570,2016-07-01,258
+211916,completed,2016-07-02,kcc_Bakheer Pocket Perfume,120.0,2,240.0,100148016,Beauty & Grooming,C-KHC-44247,0.0,Cash_on_delivery,Net,240,2016-07-01,114
+211917,refund,2016-07-02,PHILIPS_HP8600_32,2950.0,1,2950.0,100148017,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,2950,2016-07-01,156
+211918,completed,2016-07-02,kcc_glamour deal,320.0,1,320.0,100148018,Beauty & Grooming,C-MUX-43033,0.0,Cash_on_delivery,Net,320,2016-07-01,259
+211919,completed,2016-07-02,audionic_AH-70,190.0,2,180.0,100148019,Computing,Unknown,200.0,Cash_on_delivery,Net,380,2016-07-01,248
+211920,refund,2016-07-02,UK_Cake Rusk Cardamom 150 Gms,90.0,1,90.0,100148020,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,90,2016-07-01,260
+211923,completed,2016-07-02,UK_Tea Rusk Regular 220 Gms,75.0,1,75.0,100148022,Soghaat,Unknown,0.0,Cash_on_delivery,Net,75,2016-07-01,260
+211921,refund,2016-07-02,bata_comfit-8613714-43-9,999.0,1,999.0,100148021,Men's Fashion,102795,0.0,Cash_on_delivery,Valid,999,2016-07-01,256
+211924,refund,2016-07-02,Dawlance_MD 10 + DWB 600,8420.0,1,8420.0,100148023,Others,c-lhc-34292,0.0,Cash_on_delivery,Valid,8420,2016-07-01,261
+211925,completed,2016-07-02,kcc_Bakheer Pocket Perfume,120.0,2,1160.0,100148024,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,240,2016-07-01,13
+211926,completed,2016-07-02,kcc_Oudh Pocket Perfume,120.0,1,1160.0,100148024,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,120,2016-07-01,13
+211927,completed,2016-07-02,kcc_Cool Pocket Perfume,120.0,1,1160.0,100148024,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,120,2016-07-01,13
+211928,completed,2016-07-02,kcc_glamour deal,320.0,1,1160.0,100148024,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,320,2016-07-01,13
+211929,completed,2016-07-02,kcc_social,180.0,1,1160.0,100148024,Beauty & Grooming,R-KHW-104406,0.0,Cash_on_delivery,Net,180,2016-07-01,13
+211930,completed,2016-07-02,kcc_smart,180.0,1,1160.0,100148024,Home & Living,R-KHW-104406,0.0,Cash_on_delivery,Net,180,2016-07-01,13
+211931,completed,2016-07-02,Rajesh_RAJ001,1300.0,1,1300.0,100148025,Home & Living,c-lhc-34292,0.0,Cash_on_delivery,Net,1300,2016-07-01,261
+211932,completed,2016-07-02,HR_Moong Dal 200g,200.0,1,785.0,100148026,Soghaat,R-skz104411,0.0,Cash_on_delivery,Net,200,2016-07-01,262
+211933,completed,2016-07-02,UK_Karachi Halwa Tin Pack 400 Gms,235.0,1,785.0,100148026,Soghaat,R-skz104411,0.0,Cash_on_delivery,Net,235,2016-07-01,262
+211934,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,785.0,100148026,Soghaat,R-skz104411,0.0,Cash_on_delivery,Net,350,2016-07-01,262
+211935,completed,2016-07-02,bed&rest_Danika 3D,630.0,1,630.0,100148027,Home & Living,Unknown,0.0,Cash_on_delivery,Net,630,2016-07-01,263
+211936,completed,2016-07-02,Rajesh_RAJ001,1300.0,1,1300.0,100148028,Home & Living,c-lhc-34292,0.0,Cash_on_delivery,Net,1300,2016-07-01,261
+211941,completed,2016-07-02,UK_Soan Papdi Original 250 Gms,150.0,1,150.0,100148030,Soghaat,Unknown,0.0,Cash_on_delivery,Net,150,2016-07-01,264
+211937,completed,2016-07-02,emo_SS-17227-L,475.0,1,2425.0,100148029,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,475,2016-07-01,52
+211939,completed,2016-07-02,sst_Jessy-Regular fit-Large,1950.0,1,2425.0,100148029,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,1950,2016-07-01,52
+211942,refund,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,1628.0,100148031,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,350,2016-07-01,265
+211943,refund,2016-07-02,RS_Habshi Halwa Tin,280.0,1,1628.0,100148031,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,280,2016-07-01,265
+211944,refund,2016-07-02,BK5110500DG,499.0,2,1628.0,100148031,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,998,2016-07-01,265
+211945,completed,2016-07-02,kcc_Charming Perfumed Talcum Powder-100gm,74.0,1,74.0,100148032,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,74,2016-07-01,260
+211947,completed,2016-07-02,MYWALET_MW-060-BROWN,626.0,1,626.0,100148033,Men's Fashion,c-lhc-57595,0.0,Cash_on_delivery,Net,626,2016-07-01,266
+211948,refund,2016-07-02,sstop_etable,2465.0,1,2465.0,100148034,Computing,1151,0.0,Cash_on_delivery,Valid,2465,2016-07-01,267
+211949,completed,2016-07-02,sst_Logic 2-Slim Fit-Large,1950.0,1,1950.0,100148035,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,1950,2016-07-01,268
+211951,canceled,2016-07-02,Al Muhafiz Sohan Halwa Cashew,570.0,1,570.0,100148036,Soghaat,R-PEW-50644,0.0,Bank or Card,Gross,570,2016-07-01,86
+211952,refund,2016-07-02,samsung_ETA-U90JWSO_45,890.0,1,890.0,100148037,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Valid,890,2016-07-01,269
+211954,completed,2016-07-02,Al Muhafiz Sohan Halwa Cashew,570.0,1,570.0,100148039,Soghaat,R-PEW-50644,0.0,Cash_on_delivery,Net,570,2016-07-01,86
+211953,canceled,2016-07-02,Al Muhafiz Sohan Halwa Walnut,510.0,1,510.0,100148038,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,510,2016-07-01,270
+211955,canceled,2016-07-02,AKL_GMTP002_Earth Red-L,1250.0,1,8140.0,100148040,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1250,2016-07-01,271
+211957,canceled,2016-07-02,mm_AG-2049,6240.0,1,8140.0,100148040,Appliances,Unknown,0.0,Cash_on_delivery,Gross,6240,2016-07-01,271
+211958,canceled,2016-07-02,UC_PP-004-L,650.0,1,8140.0,100148040,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,650,2016-07-01,271
+211960,refund,2016-07-02,UK_Namkino Mix Nimco 5 Pcs Gift Pack,495.0,1,495.0,100148041,Soghaat,R-PEW-50644,0.0,Cash_on_delivery,Valid,495,2016-07-01,86
+211961,completed,2016-07-02,Samsung Galaxy J7,25999.0,1,25999.0,100148042,Mobiles & Tablets,C-PEW-104656,0.0,Cash_on_delivery,Net,25999,2016-07-01,272
+211962,completed,2016-07-02,liberty_9788174367181,200.0,1,200.0,100148043,Books,Unknown,0.0,Cash_on_delivery,Net,200,2016-07-01,273
+211963,refund,2016-07-02,casio_MTP-1302D-1A1VDF,3050.0,1,3050.0,100148044,Men's Fashion,R-PEW-50644,0.0,Cash_on_delivery,Valid,3050,2016-07-01,86
+211964,canceled,2016-07-02,Senorita_GAK-836-RED-34,1870.0,1,1870.0,100148045,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,1870,2016-07-01,274
+211996,canceled,2016-07-02,Dany_6954217552453,6900.0,1,6900.0,100148047,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,6900,2016-07-01,275
+211997,completed,2016-07-02,RS_Soan Papri-250gm,150.0,1,150.0,100148048,Soghaat,Unknown,0.0,Cash_on_delivery,Net,150,2016-07-01,260
+212003,completed,2016-07-02,kkc_ Icy Menthol Oasis Prickly Heat Powder,80.0,1,80.0,100148049,Beauty & Grooming,C-MUX-60389,0.0,Cash_on_delivery,Net,80,2016-07-01,43
+212004,refund,2016-07-02,kcc_jazzy,140.0,1,140.0,100148050,Beauty & Grooming,C-MUX-60384,0.0,Cash_on_delivery,Valid,140,2016-07-01,43
+212005,refund,2016-07-02,dany_6954217942148,9500.0,1,9500.0,100148051,Mobiles & Tablets,123123,0.0,Cash_on_delivery,Valid,9500,2016-07-01,276
+212006,completed,2016-07-02,kkc_ Icy Menthol Oasis Prickly Heat Powder,80.0,1,80.0,100148052,Beauty & Grooming,C-MUX-100374,0.0,Cash_on_delivery,Net,80,2016-07-01,43
+212012,completed,2016-07-02,kcc_funky,160.0,1,160.0,100148053,Beauty & Grooming,C-MUX-60390,0.0,Cash_on_delivery,Net,160,2016-07-01,43
+212013,completed,2016-07-02,kcc_glamour deal,320.0,1,320.0,100148054,Beauty & Grooming,C-MUX-48275,0.0,Cash_on_delivery,Net,320,2016-07-01,43
+212014,completed,2016-07-02,kcc_active,180.0,1,480.0,100148055,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,180,2016-07-01,277
+212015,completed,2016-07-02,itter_AB 1214,300.0,1,480.0,100148055,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,300,2016-07-01,277
+212016,canceled,2016-07-02,Huawei_Y6 DS,13999.0,1,13999.0,100148056,Mobiles & Tablets,1072,0.0,Cash_on_delivery,Gross,13999,2016-07-01,278
+212017,completed,2016-07-02,UK_ Namkino Daal Moong 200 Gms,90.0,1,90.0,100148057,Soghaat,Unknown,0.0,Cash_on_delivery,Net,90,2016-07-01,279
+212018,canceled,2016-07-02,Haier G20,4380.0,1,4180.0,100148058,Mobiles & Tablets,Unknown,200.0,Cash_on_delivery,Gross,4380,2016-07-01,141
+212019,canceled,2016-07-02,iPhone SE-16GB,51999.0,1,51999.0,100148059,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,51999,2016-07-01,280
+212020,completed,2016-07-02,3m_NANOPAX,1020.0,1,1020.0,100148060,Others,Unknown,0.0,Cash_on_delivery,Net,1020,2016-07-01,281
+212021,completed,2016-07-02,RS_Honey Dry Fruit Halwa,325.0,1,325.0,100148061,Soghaat,Unknown,0.0,Cash_on_delivery,Net,325,2016-07-01,282
+212022,completed,2016-07-02,Al Muhafiz Sohan Halwa Walnut,510.0,1,510.0,100148062,Soghaat,Unknown,0.0,Cash_on_delivery,Net,510,2016-07-01,283
+212023,completed,2016-07-02,Gasonline-MPT-524-BEIGE-36,1099.0,1,1099.0,100148063,Others,Unknown,0.0,Cash_on_delivery,Net,1099,2016-07-01,284
+212025,completed,2016-07-02,Ifsha_CU-0047,399.0,1,99.0,100148064,Men's Fashion,Unknown,300.0,Cash_on_delivery,Net,399,2016-07-01,285
+212026,completed,2016-07-02,UK_Namkino Badshahi Mix 200 Gms,100.0,2,470.0,100148065,Soghaat,Unknown,0.0,Cash_on_delivery,Net,200,2016-07-01,282
+212027,completed,2016-07-02,UK_Namkino Spicy Peanuts 200 Gms,100.0,1,470.0,100148065,Soghaat,Unknown,0.0,Cash_on_delivery,Net,100,2016-07-01,282
+212028,completed,2016-07-02,UK_Namkino Mix Nimco 400 Gms,170.0,1,470.0,100148065,Soghaat,Unknown,0.0,Cash_on_delivery,Net,170,2016-07-01,282
+212029,completed,2016-07-02,Ajmery_BRR-590-M,899.0,1,899.0,100148066,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,899,2016-07-01,286
+212031,refund,2016-07-02,Tiraaz_Tm-02-019-L,2253.0,1,2253.0,100148067,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,2253,2016-07-01,287
+212033,canceled,2016-07-02,centrix_Scootify - Red Self Balancing Scooter,16999.0,1,16999.0,100148068,Kids & Baby,Unknown,0.0,Others,Gross,16999,2016-07-01,288
+212034,refund,2016-07-02,Audionic_B-880,1375.0,1,1375.0,100148069,Computing,Unknown,0.0,Cash_on_delivery,Valid,1375,2016-07-01,289
+212035,completed,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,860.0,100148070,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,290
+212036,completed,2016-07-02,Al Muhafiz Sohan Halwa Walnut,510.0,1,860.0,100148070,Soghaat,Unknown,0.0,Cash_on_delivery,Net,510,2016-07-01,290
+212037,canceled,2016-07-02,Audionic  BT125 Speaker,775.0,1,775.0,100148071,Computing,Unknown,0.0,Cash_on_delivery,Gross,775,2016-07-01,291
+212038,refund,2016-07-02,HOL_A-802T-39,1799.0,1,1799.0,100148072,Men's Fashion,R-PEW-101268,0.0,Cash_on_delivery,Valid,1799,2016-07-01,292
+212040,completed,2016-07-02,kcc_Buy 2 Frey Air Freshener & Get 1 Kasual Body Spray Free,240.0,1,240.0,100148073,Beauty & Grooming,C-MUX-45345,0.0,Cash_on_delivery,Net,240,2016-07-01,293
+212041,canceled,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148074,Soghaat,Unknown,0.0,Bank or Card,Gross,350,2016-07-01,294
+212042,completed,2016-07-02,BB_RCKBS_GARD,1695.0,1,1395.0,100148075,Home & Living,Unknown,300.0,Cash_on_delivery,Net,1695,2016-07-01,189
+212044,canceled,2016-07-02,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148076,Soghaat,Unknown,0.0,Bank or Card,Gross,350,2016-07-01,294
+212045,completed,2016-07-02,UK_Gift Box Habshi Halwa 500 Gms,340.0,1,1205.0,100148077,Soghaat,Unknown,0.0,Cash_on_delivery,Net,340,2016-07-01,295
+212046,completed,2016-07-02,UK_Gift Box Mix Sweets 500 Gms,330.0,1,1205.0,100148077,Soghaat,Unknown,0.0,Cash_on_delivery,Net,330,2016-07-01,295
+212047,completed,2016-07-02,UK_Namkino Crunchy Nut Mix 200 Gms,100.0,1,1205.0,100148077,Soghaat,Unknown,0.0,Cash_on_delivery,Net,100,2016-07-01,295
+212048,completed,2016-07-02,UK_Habshi Halwa Tin Pack 400 Gms,285.0,1,1205.0,100148077,Soghaat,Unknown,0.0,Cash_on_delivery,Net,285,2016-07-01,295
+212049,completed,2016-07-02,UK_Pheni 400 Gms,150.0,1,1205.0,100148077,Soghaat,Unknown,0.0,Cash_on_delivery,Net,150,2016-07-01,295
+212050,completed,2016-07-02,mm_AG-2049,6240.0,1,0.0,100148046,Appliances,Unknown,0.0,Others,Net,6240,2016-07-01,271
+212051,completed,2016-07-02,UC_SP-042-L,700.0,1,0.0,100148046,Men's Fashion,Unknown,0.0,Others,Net,700,2016-07-01,271
+212053,completed,2016-07-02,emo_MJ-21916-36,899.0,1,0.0,100148046,Men's Fashion,Unknown,0.0,Others,Net,899,2016-07-01,271
+212055,completed,2016-07-02,Gasonline-MPT-560-GREY-30,1099.0,1,1099.0,100148078,Others,Unknown,0.0,Cash_on_delivery,Net,1099,2016-07-01,284
+212057,canceled,2016-07-02,UC_SP-042-L,700.0,1,5040.0,100148079,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,700,2016-07-01,296
+212059,canceled,2016-07-02,AKL_A131128809_SS-87_Sea Green,1675.0,1,5040.0,100148079,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1675,2016-07-01,296
+212060,canceled,2016-07-02,AKL_A131130523_SS-185_Blue,990.0,1,5040.0,100148079,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,990,2016-07-01,296
+212061,canceled,2016-07-02,AKL_A131128827_SS-118_Ivory,1675.0,1,5040.0,100148079,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1675,2016-07-01,296
+212062,completed,2016-07-02,nabila_Nchant FOR Olive,6900.0,1,6900.0,100148080,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,6900,2016-07-01,297
+212063,completed,2016-07-02,AKL_DL-02-YELLOW,1499.0,1,1499.0,100148081,Women's Fashion,Unknown,0.0,Cash_on_delivery,Net,1499,2016-07-01,298
+212064,completed,2016-07-02,UK_Namkino Chatkhara Papdi 150 Gms,80.0,2,160.0,100148082,Soghaat,Unknown,0.0,Cash_on_delivery,Net,160,2016-07-01,299
+212065,completed,2016-07-02,Al Muhafiz Sohan Halwa Walnut,510.0,1,510.0,100148083,Soghaat,Unknown,0.0,Cash_on_delivery,Net,510,2016-07-01,300
+212066,completed,2016-07-02,jackpot_JP-14,1050.0,1,1050.0,100148084,Appliances,Unknown,0.0,Cash_on_delivery,Net,1050,2016-07-01,301
+212067,completed,2016-07-02,kcc_Glow,140.0,1,140.0,100148085,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,140,2016-07-01,302
+212068,completed,2016-07-02,RUB_Kingston_16 gb Sd Card,800.0,1,800.0,100148086,Mobiles & Tablets,Unknown,0.0,Bank or Card,Net,800,2016-07-01,303
+212069,refund,2016-07-02,Veet_3,165.0,1,330.0,100148087,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,165,2016-07-01,304
+212070,refund,2016-07-02,Veet_5,165.0,1,330.0,100148087,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,165,2016-07-01,304
+212071,completed,2016-07-03,kcc_Sultanat Pocket Perfume,120.0,1,120.0,100148088,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,120,2016-07-01,302
+212072,refund,2016-07-03,B-power_8284384-42,2299.0,1,2299.0,100148089,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,2299,2016-07-01,305
+212074,completed,2016-07-03,Emotions_Emo-BS-28436,2400.0,1,2400.0,100148090,Home & Living,Unknown,0.0,Cash_on_delivery,Net,2400,2016-07-01,263
+212075,canceled,2016-07-03,J&J_JJNR16,399.0,1,894.0,100148091,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,399,2016-07-01,306
+212076,canceled,2016-07-03,J&J_JJPS-007XL,495.0,1,894.0,100148091,Kids & Baby,Unknown,0.0,Cash_on_delivery,Gross,495,2016-07-01,306
+212077,completed,2016-07-03,rub_Rubian_VR-Box With Remote,1765.0,1,1765.0,100148092,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Net,1765,2016-07-01,307
+212078,completed,2016-07-03,J&J_JJNR16,399.0,1,1293.0,100148093,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,399,2016-07-01,306
+212079,completed,2016-07-03,J&J_JJPS-007XL,495.0,1,1293.0,100148093,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,495,2016-07-01,306
+212080,completed,2016-07-03,J&J_JJNR12,399.0,1,1293.0,100148093,Kids & Baby,Unknown,0.0,Cash_on_delivery,Net,399,2016-07-01,306
+212081,refund,2016-07-03,nabila_Ngage FOR Honey,6900.0,1,6900.0,100148094,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,6900,2016-07-01,308
+212082,completed,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148095,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,309
+212083,canceled,2016-07-03,UK_Gift Box Pistachio Delight 500 Gms,370.0,1,870.0,100148096,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,370,2016-07-01,310
+212084,canceled,2016-07-03,UK_Gift Box Habshi Halwa 500 Gms,340.0,1,870.0,100148096,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,340,2016-07-01,310
+212085,canceled,2016-07-03,UK_Namkino Mix Nimco 200 Gms,80.0,2,870.0,100148096,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,160,2016-07-01,310
+212086,canceled,2016-07-03,Truck Art Round metal tray,3500.0,1,9353.02,100148097,Home & Living,Unknown,0.0,Others,Gross,3500,2016-07-01,311
+212087,canceled,2016-07-03,UK_Soan Papdi Orange 250 Gms,150.0,1,1040.0,100148098,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,150,2016-07-01,312
+212088,canceled,2016-07-03,UK_Namkino All In One 200 Gms,80.0,1,1040.0,100148098,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,80,2016-07-01,312
+212089,canceled,2016-07-03,RS_Soan Papri-250gm,150.0,1,1040.0,100148098,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,150,2016-07-01,312
+212090,canceled,2016-07-03,RS_Karachi Halwa Tin,280.0,1,1040.0,100148098,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,280,2016-07-01,312
+212091,canceled,2016-07-03,RS_Double Delight,380.0,1,1040.0,100148098,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,380,2016-07-01,312
+212092,completed,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148099,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,313
+212093,completed,2016-07-03,CK_530-Vest-XLarge,203.0,1,203.0,100148100,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,203,2016-07-01,314
+212095,canceled,2016-07-03,CK_530-Underwear-XLarge,203.0,1,203.0,100148101,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,203,2016-07-01,314
+212097,completed,2016-07-03,closecomfort_PC8,29000.0,1,29000.0,100148102,Appliances,Unknown,0.0,Cash_on_delivery,Net,29000,2016-07-01,315
+212098,refund,2016-07-03,edifier_XM6-PF,7930.0,1,7930.0,100148103,Computing,Unknown,0.0,Cash_on_delivery,Valid,7930,2016-07-01,316
+212099,refund,2016-07-03,cr_AJWA DATES (400 GM),925.0,1,925.0,100148104,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,925,2016-07-01,317
+212100,refund,2016-07-03,west point_WF-306,3070.0,1,3070.0,100148105,Appliances,Unknown,0.0,Cash_on_delivery,Valid,3070,2016-07-01,317
+212101,refund,2016-07-03,Veet_4,165.0,1,165.0,100148106,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,165,2016-07-01,318
+212102,completed,2016-07-03,kcc_glamour deal,320.0,1,320.0,100148107,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,320,2016-07-01,319
+212103,refund,2016-07-03,qzs_Black V-Neck T-Shirt,800.0,1,800.0,100148108,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,800,2016-07-01,320
+212104,refund,2016-07-03,sm-SamsungC3520,6700.0,1,6700.0,100148109,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Valid,6700,2016-07-01,321
+212105,refund,2016-07-03,qzs_V-neck by QZS Clothing,550.0,1,550.0,100148110,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,550,2016-07-01,321
+212106,completed,2016-07-03,vitamin_Kojic Acid Whitening Face Wash,280.0,1,280.0,100148111,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,280,2016-07-01,322
+212107,canceled,2016-07-03,Dany_6954217552453,6900.0,1,6900.0,100148112,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,6900,2016-07-01,275
+212108,canceled,2016-07-03,BO_4 Ft Sunset Glow Baby Swimming Pool,1190.0,1,22824.0,100148113,Others,Unknown,0.0,Others,Gross,1190,2016-07-01,323
+212109,canceled,2016-07-03,RT002-M,2339.0,1,22824.0,100148113,Men's Fashion,Unknown,0.0,Others,Gross,2339,2016-07-01,323
+212111,canceled,2016-07-03,shubinak_SN-ERT-13-S - 34,1200.0,1,22824.0,100148113,Men's Fashion,Unknown,0.0,Others,Gross,1200,2016-07-01,323
+212113,canceled,2016-07-03,shubinak_SN-ERT-13-grey-S - 34,1200.0,1,22824.0,100148113,Men's Fashion,Unknown,0.0,Others,Gross,1200,2016-07-01,323
+212115,canceled,2016-07-03,AKL_A131128767_SS-25_Light Blue,3775.0,1,22824.0,100148113,Women's Fashion,Unknown,0.0,Others,Gross,3775,2016-07-01,323
+212116,canceled,2016-07-03,AKL_A131130507_SS-161_Blue,3975.0,2,22824.0,100148113,Women's Fashion,Unknown,0.0,Others,Gross,7950,2016-07-01,323
+212117,canceled,2016-07-03,Silkasia_Cream Stylish Embroidered Dress,4500.0,1,22824.0,100148113,Women's Fashion,Unknown,0.0,Others,Gross,4500,2016-07-01,323
+212118,canceled,2016-07-03,UK_Soan Papdi Original 250 Gms,150.0,1,22824.0,100148113,Soghaat,Unknown,0.0,Others,Gross,150,2016-07-01,323
+212119,canceled,2016-07-03,UK_Namkino Crunchy Nut Mix 200 Gms,100.0,1,22824.0,100148113,Soghaat,Unknown,0.0,Others,Gross,100,2016-07-01,323
+212120,canceled,2016-07-03,UK_ Namkino Lajawab Mix 200 Gms,80.0,1,22824.0,100148113,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212121,canceled,2016-07-03,UK_Namkino Masala Sev 200 Gms,80.0,1,22824.0,100148113,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212122,canceled,2016-07-03,UK_Kala Jamun Tin Pack 500 Gms,260.0,1,22824.0,100148113,Soghaat,Unknown,0.0,Others,Gross,260,2016-07-01,323
+212123,canceled,2016-07-03,Dany_6954217552453,6900.0,1,6900.0,100148114,Mobiles & Tablets,Unknown,0.0,Bank or Card,Gross,6900,2016-07-01,275
+212124,canceled,2016-07-03,QMobile Bolt T50,3750.0,1,3750.0,100148115,Mobiles & Tablets,1234,0.0,Bank or Card,Gross,3750,2016-07-01,324
+212125,canceled,2016-07-03,BO_4 Ft Sunset Glow Baby Swimming Pool,1190.0,1,20987.0,100148116,Others,Unknown,0.0,Others,Gross,1190,2016-07-01,323
+212126,canceled,2016-07-03,AKL_A131128767_SS-25_Light Blue,3775.0,1,20987.0,100148116,Women's Fashion,Unknown,0.0,Others,Gross,3775,2016-07-01,323
+212127,canceled,2016-07-03,Silkasia_Cream Stylish Embroidered Dress,4500.0,1,20987.0,100148116,Women's Fashion,Unknown,0.0,Others,Gross,4500,2016-07-01,323
+212128,canceled,2016-07-03,UK_Kala Jamun Tin Pack 500 Gms,260.0,1,20987.0,100148116,Soghaat,Unknown,0.0,Others,Gross,260,2016-07-01,323
+212129,canceled,2016-07-03,UK_Namkino Mix Nimco 200 Gms,80.0,1,20987.0,100148116,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212130,canceled,2016-07-03,UK_ Namkino Lajawab Mix 200 Gms,80.0,1,20987.0,100148116,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212131,canceled,2016-07-03,UK_Namkino All In One 200 Gms,80.0,1,20987.0,100148116,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212132,canceled,2016-07-03,UK_Soan Papdi Original 250 Gms,150.0,1,20987.0,100148116,Soghaat,Unknown,0.0,Others,Gross,150,2016-07-01,323
+212133,canceled,2016-07-03,UK_Namkino Masala Sev 200 Gms,80.0,1,20987.0,100148116,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212134,canceled,2016-07-03,Farah_3-B,2996.0,2,20987.0,100148116,Women's Fashion,Unknown,0.0,Others,Gross,5992,2016-07-01,323
+212135,canceled,2016-07-03,shubinak_SN-ERT-13-S - 34,1200.0,2,20987.0,100148116,Men's Fashion,Unknown,0.0,Others,Gross,2400,2016-07-01,323
+212137,canceled,2016-07-03,shubinak_SN-ERT-13-grey-M - 36,1200.0,2,20987.0,100148116,Men's Fashion,Unknown,0.0,Others,Gross,2400,2016-07-01,323
+212139,canceled,2016-07-03,BO_4 Ft Sunset Glow Baby Swimming Pool,1190.0,1,14995.0,100148117,Others,Unknown,0.0,Others,Gross,1190,2016-07-01,323
+212140,canceled,2016-07-03,AKL_A131128767_SS-25_Light Blue,3775.0,1,14995.0,100148117,Women's Fashion,Unknown,0.0,Others,Gross,3775,2016-07-01,323
+212141,canceled,2016-07-03,Silkasia_Cream Stylish Embroidered Dress,4500.0,1,14995.0,100148117,Women's Fashion,Unknown,0.0,Others,Gross,4500,2016-07-01,323
+212142,canceled,2016-07-03,UK_Kala Jamun Tin Pack 500 Gms,260.0,1,14995.0,100148117,Soghaat,Unknown,0.0,Others,Gross,260,2016-07-01,323
+212143,canceled,2016-07-03,UK_Namkino Mix Nimco 200 Gms,80.0,1,14995.0,100148117,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212144,canceled,2016-07-03,UK_ Namkino Lajawab Mix 200 Gms,80.0,1,14995.0,100148117,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212145,canceled,2016-07-03,UK_Namkino All In One 200 Gms,80.0,1,14995.0,100148117,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212146,canceled,2016-07-03,UK_Soan Papdi Original 250 Gms,150.0,1,14995.0,100148117,Soghaat,Unknown,0.0,Others,Gross,150,2016-07-01,323
+212147,canceled,2016-07-03,UK_Namkino Masala Sev 200 Gms,80.0,1,14995.0,100148117,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,323
+212148,canceled,2016-07-03,shubinak_SN-ERT-13-S - 34,1200.0,2,14995.0,100148117,Men's Fashion,Unknown,0.0,Others,Gross,2400,2016-07-01,323
+212150,canceled,2016-07-03,shubinak_SN-ERT-13-grey-M - 36,1200.0,2,14995.0,100148117,Men's Fashion,Unknown,0.0,Others,Gross,2400,2016-07-01,323
+212152,completed,2016-07-03,kcc_krone deal,360.0,1,360.0,100148118,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,360,2016-07-01,325
+212153,completed,2016-07-03,kcc_bakheer,120.0,1,120.0,100148119,Home & Living,Unknown,0.0,Cash_on_delivery,Net,120,2016-07-01,325
+212154,refund,2016-07-03,bata_comfit-8744557-41-7,799.0,1,799.0,100148120,Men's Fashion,3118078,0.0,Cash_on_delivery,Valid,799,2016-07-01,326
+212156,completed,2016-07-03,JBS_WEN-043,1880.0,1,2700.0,100148121,Others,Unknown,0.0,Cash_on_delivery,Net,1880,2016-07-01,23
+212157,completed,2016-07-03,JBS_TAT-173,820.0,1,2700.0,100148121,Home & Living,Unknown,0.0,Cash_on_delivery,Net,820,2016-07-01,23
+212158,completed,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148122,Soghaat,r-hdd-70202,0.0,Cash_on_delivery,Net,350,2016-07-01,327
+212159,completed,2016-07-03,RS_Kaju Barfi,425.0,1,425.0,100148123,Soghaat,r-hdd-70202,0.0,Cash_on_delivery,Net,425,2016-07-01,327
+212160,canceled,2016-07-03,kkc_Jasmine King Air Freshener,144.0,1,144.0,100148124,Home & Living,Unknown,0.0,Cash_on_delivery,Gross,144,2016-07-01,133
+212161,completed,2016-07-03,kcc_krone deal,360.0,1,360.0,100148125,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,360,2016-07-01,328
+212162,completed,2016-07-03,kcc_Oudh Pocket Perfume,120.0,1,0.0,100148126,Beauty & Grooming,Unknown,0.0,Others,Net,120,2016-07-01,329
+212163,refund,2016-07-03,kcc_Cool Pocket Perfume,120.0,1,120.0,100148127,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,120,2016-07-01,330
+212164,refund,2016-07-03,Hstyle_HW-2016165,350.0,1,350.0,100148128,Beauty & Grooming,80311,0.0,Cash_on_delivery,Valid,350,2016-07-01,331
+212165,completed,2016-07-03,kcc_glamour deal,320.0,1,320.0,100148129,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,320,2016-07-01,332
+212166,canceled,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,350.0,100148130,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,333
+212167,completed,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,1150.0,100148131,Soghaat,Unknown,0.0,Cash_on_delivery,Net,350,2016-07-01,334
+212168,completed,2016-07-03,itter_AB 1126,800.0,1,1150.0,100148131,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,800,2016-07-01,334
+212169,refund,2016-07-03,emo_Emo-VB-12 Black Blazer,3299.0,1,3299.0,100148132,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,3299,2016-07-01,140
+212170,canceled,2016-07-03,emo_Emo-VB-12 Black Blazer,3299.0,1,3299.0,100148133,Men's Fashion,Unknown,0.0,Bank or Card,Gross,3299,2016-07-01,140
+212171,completed,2016-07-03,kcc_glamour deal,320.0,1,320.0,100148134,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,320,2016-07-01,335
+212172,completed,2016-07-03,vitamin_Ultra Gainer,1200.0,1,1200.0,100148135,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,1200,2016-07-01,336
+212173,completed,2016-07-03,Audionic_B-710,1175.0,1,1175.0,100148136,Computing,Unknown,0.0,Cash_on_delivery,Net,1175,2016-07-01,337
+212174,refund,2016-07-03,BK1010200BR,99.0,1,99.0,100148137,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,99,2016-07-01,338
+212175,completed,2016-07-03,Dany_AUK-650,4200.0,1,4200.0,100148138,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Net,4200,2016-07-01,339
+212176,completed,2016-07-03,RS_Double Delight,380.0,1,605.0,100148139,Soghaat,Unknown,0.0,Cash_on_delivery,Net,380,2016-07-01,340
+212177,completed,2016-07-03,UK_Soan Papdi Original 250 Gms,150.0,1,605.0,100148139,Soghaat,Unknown,0.0,Cash_on_delivery,Net,150,2016-07-01,340
+212178,completed,2016-07-03,UK_Tea Rusk Regular 220 Gms,75.0,1,605.0,100148139,Soghaat,Unknown,0.0,Cash_on_delivery,Net,75,2016-07-01,340
+212179,canceled,2016-07-03,UK_Namkino All In One 200 Gms,80.0,1,240.0,100148140,Soghaat,MBC,0.0,Cash_on_delivery,Gross,80,2016-07-01,341
+212180,canceled,2016-07-03,UK_Namkino Khat Mitha Mix 200 Gms,80.0,1,240.0,100148140,Soghaat,MBC,0.0,Cash_on_delivery,Gross,80,2016-07-01,341
+212181,canceled,2016-07-03,UK_ Namkino Lajawab Mix 200 Gms,80.0,1,240.0,100148140,Soghaat,MBC,0.0,Cash_on_delivery,Gross,80,2016-07-01,341
+212182,completed,2016-07-03,UK_Namkino Mix Nimco 200 Gms,80.0,1,80.0,100148141,Soghaat,MBC,0.0,Cash_on_delivery,Net,80,2016-07-01,341
+212183,completed,2016-07-03,UK_Namkino Daal Moth Classic 160 Gms,90.0,1,90.0,100148142,Soghaat,MBC,0.0,Cash_on_delivery,Net,90,2016-07-01,341
+212184,completed,2016-07-03,UK_Gift Box Sohan Halwa 500 Gms,340.0,2,680.0,100148143,Soghaat,Unknown,0.0,Bank or Card,Net,680,2016-07-01,342
+212185,completed,2016-07-03,UK_ Namkino Daal Moong 200 Gms,90.0,3,1435.0,100148144,Soghaat,Unknown,0.0,Cash_on_delivery,Net,270,2016-07-01,343
+212186,completed,2016-07-03,UK_Gulab Jamun Tin Pack  1000 Gms,520.0,1,1435.0,100148144,Soghaat,Unknown,0.0,Cash_on_delivery,Net,520,2016-07-01,343
+212187,completed,2016-07-03,UK_Habshi Halwa Tin Pack 400 Gms,285.0,1,1435.0,100148144,Soghaat,Unknown,0.0,Cash_on_delivery,Net,285,2016-07-01,343
+212188,completed,2016-07-03,UK_Namkino Mix Nimco 200 Gms,80.0,2,1435.0,100148144,Soghaat,Unknown,0.0,Cash_on_delivery,Net,160,2016-07-01,343
+212189,completed,2016-07-03,UK_Namkino Crunchy Nut Mix 200 Gms,100.0,2,1435.0,100148144,Soghaat,Unknown,0.0,Cash_on_delivery,Net,200,2016-07-01,343
+212190,canceled,2016-07-03,UK_Namkino Khat Mitha Mix 200 Gms,80.0,1,160.0,100148145,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,341
+212191,canceled,2016-07-03,UK_Namkino All In One 200 Gms,80.0,1,160.0,100148145,Soghaat,Unknown,0.0,Others,Gross,80,2016-07-01,341
+212192,canceled,2016-07-03,AC_ac168-yellow,1019.0,1,1019.0,100148146,Women's Fashion,Unknown,0.0,Bank or Card,Gross,1019,2016-07-01,344
+212193,completed,2016-07-03,BK1010200BR,99.0,1,99.0,100148147,Soghaat,Unknown,0.0,Cash_on_delivery,Net,99,2016-07-01,345
+212194,completed,2016-07-03,UK_Namkino All In One 200 Gms,80.0,1,240.0,100148148,Soghaat,MBC,0.0,Cash_on_delivery,Net,80,2016-07-01,341
+212195,completed,2016-07-03,UK_Namkino Khat Mitha Mix 200 Gms,80.0,1,240.0,100148148,Soghaat,MBC,0.0,Cash_on_delivery,Net,80,2016-07-01,341
+212196,completed,2016-07-03,UK_ Namkino Lajawab Mix 200 Gms,80.0,1,240.0,100148148,Soghaat,MBC,0.0,Cash_on_delivery,Net,80,2016-07-01,341
+212197,completed,2016-07-03,audionic6-954217-562582,585.0,1,585.0,100148149,Computing,45254,0.0,Cash_on_delivery,Net,585,2016-07-01,346
+212199,canceled,2016-07-03,Emo_SS-21775-41,1199.0,1,1199.0,100148151,Men's Fashion,Unknown,0.0,Bank or Card,Gross,1199,2016-07-01,347
+212198,completed,2016-07-03,RS_Baklawa 500gm,330.0,1,330.0,100148150,Soghaat,Unknown,0.0,Cash_on_delivery,Net,330,2016-07-01,348
+212201,refund,2016-07-03,Hawks_A17,425.0,1,425.0,100148152,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,425,2016-07-01,349
+212202,completed,2016-07-03,urban_URT0023-L,1200.0,1,1200.0,100148153,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,1200,2016-07-01,350
+212204,refund,2016-07-03,Bold_Fresh,299.0,1,299.0,100148154,Beauty & Grooming,Aß,0.0,Cash_on_delivery,Valid,299,2016-07-01,351
+212205,canceled,2016-07-03,Al Muhafiz Sohan Halwa Cashew,570.0,1,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,570,2016-07-01,352
+212206,canceled,2016-07-03,Al Muhafiz Sohan Halwa Walnut,510.0,1,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,510,2016-07-01,352
+212207,canceled,2016-07-03,RS_Sohan Halwa_Tin-1000 GM,600.0,1,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,600,2016-07-01,352
+212209,canceled,2016-07-03,RS_Habshi Halwa Tin,280.0,2,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,560,2016-07-01,352
+212210,canceled,2016-07-03,RS_Chum Chum Tin,435.0,1,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,435,2016-07-01,352
+212211,canceled,2016-07-03,RS_Gulab jaman Tin,435.0,1,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,435,2016-07-01,352
+212212,canceled,2016-07-03,RS_Karachi Halwa Tin,280.0,2,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,560,2016-07-01,352
+212213,canceled,2016-07-03,RS_Honey Dry Fruit Halwa,325.0,2,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,650,2016-07-01,352
+212214,canceled,2016-07-03,BK5110250OR,234.0,2,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,468,2016-07-01,352
+212215,canceled,2016-07-03,BK5110500,500.0,1,5288.0,100148155,Soghaat,Unknown,0.0,Others,Gross,500,2016-07-01,352
+212216,completed,2016-07-03,UK_Gift Box Pistachio Delight 500 Gms,370.0,1,370.0,100148156,Soghaat,Unknown,0.0,Cash_on_delivery,Net,370,2016-07-01,353
+212217,completed,2016-07-03,UK_Namkino Mix Nimco 400 Gms,170.0,1,60.0,100148157,Soghaat,Unknown,141.66,Cash_on_delivery,Net,170,2016-07-01,354
+212218,completed,2016-07-03,UK_ Namkino Daal Moong 200 Gms,90.0,1,60.0,100148157,Soghaat,Unknown,75.0,Cash_on_delivery,Net,90,2016-07-01,354
+212219,completed,2016-07-03,UK_Namkino Badshahi Mix 200 Gms,100.0,1,60.0,100148157,Soghaat,Unknown,83.34,Cash_on_delivery,Net,100,2016-07-01,354
+212220,canceled,2016-07-03,Infinix Hot Note X551-1GB-Gold-Nationwide Delivery,12600.0,1,12600.0,100148158,Appliances,Unknown,0.0,Cash_on_delivery,Gross,12600,2016-07-01,355
+212222,completed,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,150.0,100148159,Soghaat,Unknown,200.0,Cash_on_delivery,Net,350,2016-07-01,354
+212223,refund,2016-07-03,UK_Namkino Khat Mitha Mix 200 Gms,80.0,1,870.0,100148160,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,80,2016-07-01,111
+212224,refund,2016-07-03,RS_Habshi Halwa Tin,280.0,1,870.0,100148160,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,280,2016-07-01,111
+212225,refund,2016-07-03,UK_Namkino Mix Nimco 200 Gms,80.0,1,870.0,100148160,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,80,2016-07-01,111
+212226,refund,2016-07-03,UK_Namkino Crunchy Nut Mix 200 Gms,100.0,1,870.0,100148160,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,100,2016-07-01,111
+212227,refund,2016-07-03,RS_Baklawa 500gm,330.0,1,870.0,100148160,Soghaat,Unknown,0.0,Cash_on_delivery,Valid,330,2016-07-01,111
+212228,canceled,2016-07-03,Lenovo Zuk,33999.0,34,1155966.0,100148161,Mobiles & Tablets,Unknown,0.0,Others,Gross,1155966,2016-07-01,356
+212229,completed,2016-07-03,Nokia Asha 105,2620.0,1,3395.0,100148162,Mobiles & Tablets,Unknown,0.0,Cash_on_delivery,Net,2620,2016-07-01,357
+212230,completed,2016-07-03,AUDIONIC BT110 SPEAKER,775.0,1,3395.0,100148162,Computing,Unknown,0.0,Cash_on_delivery,Net,775,2016-07-01,357
+212231,completed,2016-07-03,bata_comfit-8613714-44-10,999.0,1,999.0,100148163,Men's Fashion,Unknown,0.0,Bank or Card,Net,999,2016-07-01,358
+212233,completed,2016-07-03,bata_leena-5161226-37-4,999.0,1,999.0,100148164,Women's Fashion,Unknown,0.0,Cash_on_delivery,Net,999,2016-07-01,359
+212235,completed,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,150.0,100148165,Soghaat,Unknown,200.0,Cash_on_delivery,Net,350,2016-07-01,360
+212236,completed,2016-07-03,VITAMIN_KOJIC ACID WHITENING CREAM,280.0,1,840.0,100148166,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,280,2016-07-01,361
+212237,completed,2016-07-03,vitamin_Kojic Acid Whitening Face Wash,280.0,2,840.0,100148166,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,560,2016-07-01,361
+212238,refund,2016-07-03,PucaM_SS-25-BLACK-41,1125.0,1,126.0,100148167,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,1125,2016-07-01,362
+212240,refund,2016-07-03,kkc_Jasmine King Air Freshener,144.0,1,144.0,100148168,Home & Living,80702,0.0,Cash_on_delivery,Valid,144,2016-07-01,241
+212241,completed,2016-07-03,PucaM_SS-2715-CAMEL-43,1500.0,1,1500.0,100148169,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,1500,2016-07-01,363
+212243,completed,2016-07-03,kkc_Rose King  Air Freshener,144.0,1,144.0,100148170,Home & Living,80702,0.0,Cash_on_delivery,Net,144,2016-07-01,241
+212244,canceled,2016-07-03,AC_110-white with blacck,999.0,1,999.0,100148171,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,999,2016-07-01,364
+212245,canceled,2016-07-03,HR_Pani Puri 360g,350.0,1,350.0,100148172,Soghaat,Unknown,0.0,Cash_on_delivery,Gross,350,2016-07-01,365
+212246,canceled,2016-07-03,hol_T-38-42,1450.0,1,1450.0,100148173,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1450,2016-07-01,366
+212248,completed,2016-07-03,Al Muhafiz Sohan Halwa Walnut,510.0,1,510.0,100148174,Soghaat,Unknown,0.0,Cash_on_delivery,Net,510,2016-07-01,367
+212249,canceled,2016-07-03,Am-PTV_VC-1029-M,6000.0,1,7933.86,100148175,Men's Fashion,Unknown,0.0,Others,Gross,6000,2016-07-01,368
+212251,completed,2016-07-03,Audionic_LT-486,250.0,1,525.0,100148176,Computing,Unknown,0.0,Cash_on_delivery,Net,250,2016-07-01,369
+212252,completed,2016-07-03,Audionic_ LT-480,275.0,1,525.0,100148176,Computing,Unknown,0.0,Cash_on_delivery,Net,275,2016-07-01,369
+212253,canceled,2016-07-03,sputnik_701/5-9,1500.0,1,1500.0,100148177,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1500,2016-07-01,370
+212255,completed,2016-07-03,B-power_8282391-43,2499.0,1,2499.0,100148178,Men's Fashion,Unknown,0.0,Cash_on_delivery,Net,2499,2016-07-01,371
+212257,completed,2016-07-03,kcc_glamour deal,320.0,1,320.0,100148179,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,320,2016-07-01,48
+212258,refund,2016-07-03,sputnik_701/D14-10,1500.0,1,1500.0,100148180,Men's Fashion,Unknown,0.0,Cash_on_delivery,Valid,1500,2016-07-01,372
+212260,completed,2016-07-03,kcc_fresh,180.0,1,180.0,100148181,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,180,2016-07-01,373
+212261,completed,2016-07-03,Hstyle_HW-2016156,405.0,1,405.0,100148182,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,405,2016-07-01,374
+212262,refund,2016-07-03,Veet_1,165.0,1,165.0,100148183,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Valid,165,2016-07-01,375
+212263,completed,2016-07-03,kcc_Harmony Perfumed Talcum Powder-200gm,143.0,1,143.0,100148184,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,143,2016-07-01,48
+212265,completed,2016-07-03,rute2_Vit B 50 Complex 50 Tablets,890.0,1,2090.0,100148185,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,890,2016-07-01,376
+212266,completed,2016-07-03,vitamin_Ultra Whey Protein,1200.0,1,2090.0,100148185,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,1200,2016-07-01,376
+212267,canceled,2016-07-03,MYWALET_MW-033-D1-BLACK,1082.0,1,1082.0,100148186,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1082,2016-07-01,377
+212268,completed,2016-07-03,vitamin_Vita White,960.0,2,1920.0,100148187,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,1920,2016-07-01,378
+212269,completed,2016-07-03,UK_Pheni 400 Gms,150.0,1,150.0,100148188,Soghaat,80645,0.0,Cash_on_delivery,Net,150,2016-07-01,93
+212270,refund,2016-07-03,vitamin_Royal Jelly 500,640.0,1,640.0,100148189,Health & Sports,Unknown,0.0,Cash_on_delivery,Valid,640,2016-07-01,379
+212271,completed,2016-07-03,VITAMIN_HAIR SKIN & NAIL FORMULA,480.0,2,960.0,100148190,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,960,2016-07-01,378
+212272,completed,2016-07-03,VITAMIN_WHITENING BB CREAM,280.0,1,70.0,100148191,Beauty & Grooming,Unknown,0.0,Cash_on_delivery,Net,280,2016-07-01,380
+212273,completed,2016-07-03,alkhair_Black Seed Oil Softgel Capsules100  Cap bottle,500.0,1,70.0,100148191,Others,Unknown,0.0,Cash_on_delivery,Net,500,2016-07-01,380
+212274,canceled,2016-07-03,vitamin_Vita White,960.0,2,1920.0,100148192,Health & Sports,Unknown,0.0,Cash_on_delivery,Gross,1920,2016-07-01,378
+212275,completed,2016-07-03,sentiments_Ferrero Rocher Gift Box,1.0,1,0.0,100148193,Others,Unknown,1.0,Cash_on_delivery,Net,1,2016-07-01,381
+212276,canceled,2016-07-03,ESPICO_050-Fancy Nylon Bra-Black-34,430.0,1,430.0,100148194,Women's Fashion,Unknown,0.0,Cash_on_delivery,Gross,430,2016-07-01,382
+212278,completed,2016-07-03,JBS_SL-STOR-017,100.0,1,180.0,100148195,Home & Living,Unknown,52.63,Cash_on_delivery,Net,100,2016-07-01,383
+212279,completed,2016-07-03,JBS_SL-STOR-051,100.0,1,180.0,100148195,Home & Living,Unknown,52.63,Cash_on_delivery,Net,100,2016-07-01,383
+212280,completed,2016-07-03,JBS_SL-STOR-024,180.0,1,180.0,100148195,Home & Living,Unknown,94.74,Cash_on_delivery,Net,180,2016-07-01,383
+212281,canceled,2016-07-03,sputnik_177/9-10,1500.0,1,1500.0,100148196,Men's Fashion,Unknown,0.0,Cash_on_delivery,Gross,1500,2016-07-01,384
+212283,canceled,2016-07-03,Audionic_DJ-106,625.0,1,625.0,100148197,Computing,Unknown,0.0,Cash_on_delivery,Gross,625,2016-07-01,385
+212284,completed,2016-07-03,sputnik_3444/10-9,2000.0,1,2639.0,100148198,Women's Fashion,Unknown,0.0,Bank or Card,Net,2000,2016-07-01,386
+212286,completed,2016-07-03,ihijab_PN039,639.0,1,2639.0,100148198,Women's Fashion,Unknown,0.0,Bank or Card,Net,639,2016-07-01,386
+212287,completed,2016-07-03,Al Muhafiz Sohan Halwa Almond,350.0,1,150.0,100148199,Soghaat,Unknown,200.0,Cash_on_delivery,Net,350,2016-07-01,387
+212288,completed,2016-07-03,ajwa_Ajwa Seeds Powder,900.0,1,1800.0,100148200,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,900,2016-07-01,388
+212289,completed,2016-07-03,ajwa_Ajwa Dates Powder,900.0,1,1800.0,100148200,Health & Sports,Unknown,0.0,Cash_on_delivery,Net,900,2016-07-01,388
+212290,completed,2016-07-03,ESPICO_050-Fancy Nylon Bra-Black-34,430.0,1,130.0,100148201,Women's Fashion,Unknown,100.0,Others,Net,430,2016-07-01,389
+212292,completed,2016-07-03,ESPICO_Sports Bra-Skin-Free size,480.0,1,280.0,100148202,Women's Fashion,Unknown,200.0,Cash_on_delivery,Net,480,2016-07-01,382
+212294,completed,2016-07-03,ESPICO_Classic Cotton-Skin-42,350.0,1,250.0,100148203,Women's Fashion,Unknown,100.0,Cash_on_delivery,Net,350,2016-07-01,382
