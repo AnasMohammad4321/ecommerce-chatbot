@@ -18,12 +18,13 @@ class ResponseFormatterAgent:
             )
 
             response_prompt = PromptTemplate.from_template("""
-                Convert these query results into a clear, concise response:
+                Summarize the query results into a **direct, insightful response** 
+                without unnecessary introductions or filler text.
 
-                Original Query: {query}
-                Results: {results}
-                
-                Provide a succinct, informative explanation.
+                **Query:** {query}  
+                **Results:** {results}  
+
+                Ensure the response is **concise, structured, and informative**.
             """)
 
             chain = response_prompt | llm | StrOutputParser()
