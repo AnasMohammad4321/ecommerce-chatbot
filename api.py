@@ -2,7 +2,10 @@ import os
 import pandas as pd
 import sqlite3
 from dotenv import load_dotenv
-from flask import Flask, request, jsonify
+import uvicorn
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import JSONResponse
+from pydantic import BaseModel
 from agents.intent import IntentAgent
 from agents.ecommerce_assistant import NormalEcommerceAssistantAgent
 from agents.memory_agent import ConversationMemoryAgent
@@ -11,7 +14,7 @@ from agents.query_generator import SQLQueryAgent
 from agents.infer_schema import SchemaInferenceAgent
 from utils.helpers import convert_all_columns_to_snake_case
 
-app = Flask(__name__)
+app = FastAPI()
 
 load_dotenv()
 
@@ -37,11 +40,14 @@ intent_agent = IntentAgent()
 normal_assistant = NormalEcommerceAssistantAgent()
 memory_agent = ConversationMemoryAgent()
 
-@app.route('/chat', methods=['POST'])
-def chat():
-    user_query = request.json.get('query')
+class ChatRequest(BaseModel):
+    query: str
+
+@app.post('/chat')
+async def chat(request: ChatRequest):
+    user_query = request.query
     if not user_query:
-        return jsonify({"error": "No query provided"}), 400
+        raise HTTPException(status_code=400, detail="No query provided")
 
     context = memory_agent.get_context()
     
@@ -57,13 +63,13 @@ def chat():
             final_response = response_agent.format_response(user_query, query_results)
 
             memory_agent.add_interaction(user_query, final_response)
-            return jsonify({"intent": intent_classification.intent, "response": final_response, "results": query_results}), 200
+            return JSONResponse(content={"intent": intent_classification.intent, "response": final_response, "results": query_results}, status_code=200)
         else:
             general_response = normal_assistant.generate_response(user_query, context)
             memory_agent.add_interaction(user_query, general_response)
-            return jsonify({"intent": intent_classification.intent, "response": general_response}), 200
+            return JSONResponse(content={"intent": intent_classification.intent, "response": general_response}, status_code=200)
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    uvicorn.run(app, host="127.0.0.1", port=8000, log_level="info")
